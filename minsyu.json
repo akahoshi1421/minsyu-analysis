@@ -1391,5 +1391,302 @@
       "kokumin": 319.397,
       "rikken": 1530.602
     }
+  ],
+  "福島県": [
+    {
+      "cityName": "福島市",
+      "kokumin": 11629.815,
+      "rikken": 35575.184
+    },
+    {
+      "cityName": "会津若松市",
+      "kokumin": 4713.827,
+      "rikken": 13337.172
+    },
+    {
+      "cityName": "郡山市",
+      "kokumin": 13635.045,
+      "rikken": 37652.954
+    },
+    {
+      "cityName": "いわき市",
+      "kokumin": 10070.453,
+      "rikken": 29625.546
+    },
+    {
+      "cityName": "白河市",
+      "kokumin": 2056.476,
+      "rikken": 7093.523
+    },
+    {
+      "cityName": "須賀川市",
+      "kokumin": 2886.192,
+      "rikken": 10084.807
+    },
+    {
+      "cityName": "喜多方市",
+      "kokumin": 1542.819,
+      "rikken": 5641.18
+    },
+    {
+      "cityName": "相馬市",
+      "kokumin": 1287.67,
+      "rikken": 3937.329
+    },
+    {
+      "cityName": "二本松市",
+      "kokumin": 1844.107,
+      "rikken": 7214.892
+    },
+    {
+      "cityName": "田村市",
+      "kokumin": 1072.049,
+      "rikken": 6157.95
+    },
+    {
+      "cityName": "南相馬市",
+      "kokumin": 2082.915,
+      "rikken": 8065.084
+    },
+    {
+      "cityName": "伊達市",
+      "kokumin": 1939.924,
+      "rikken": 8527.075
+    },
+    {
+      "cityName": "本宮市",
+      "kokumin": 1162.889,
+      "rikken": 3735.11
+    },
+    {
+      "cityName": "桑折町",
+      "kokumin": 364.713,
+      "rikken": 1572.286
+    },
+    {
+      "cityName": "国見町",
+      "kokumin": 321.881,
+      "rikken": 1435.118
+    },
+    {
+      "cityName": "川俣町",
+      "kokumin": 367.816,
+      "rikken": 1703.183
+    },
+    {
+      "cityName": "大玉村",
+      "kokumin": 294.825,
+      "rikken": 1134.174
+    },
+    {
+      "cityName": "鏡石町",
+      "kokumin": 506.329,
+      "rikken": 1708.67
+    },
+    {
+      "cityName": "天栄村",
+      "kokumin": 191.976,
+      "rikken": 965.023
+    },
+    {
+      "cityName": "下郷町",
+      "kokumin": 193.079,
+      "rikken": 987.92
+    },
+    {
+      "cityName": "檜枝岐村",
+      "kokumin": 31.294,
+      "rikken": 101.705
+    },
+    {
+      "cityName": "只見町",
+      "kokumin": 137.849,
+      "rikken": 796.15
+    },
+    {
+      "cityName": "南会津町",
+      "kokumin": 557.813,
+      "rikken": 2642.186
+    },
+    {
+      "cityName": "北塩原村",
+      "kokumin": 91.463,
+      "rikken": 461.536
+    },
+    {
+      "cityName": "西会津町",
+      "kokumin": 139.739,
+      "rikken": 1075.26
+    },
+    {
+      "cityName": "磐梯町",
+      "kokumin": 132.331,
+      "rikken": 547.668
+    },
+    {
+      "cityName": "猪苗代町",
+      "kokumin": 474.987,
+      "rikken": 1989.012
+    },
+    {
+      "cityName": "会津坂下町",
+      "kokumin": 506.185,
+      "rikken": 2149.814
+    },
+    {
+      "cityName": "湯川村",
+      "kokumin": 109.767,
+      "rikken": 480.232
+    },
+    {
+      "cityName": "柳津町",
+      "kokumin": 82.533,
+      "rikken": 536.466
+    },
+    {
+      "cityName": "三島町",
+      "kokumin": 55.939,
+      "rikken": 316.06
+    },
+    {
+      "cityName": "金山町",
+      "kokumin": 52.917,
+      "rikken": 361.082
+    },
+    {
+      "cityName": "昭和村",
+      "kokumin": 43.87,
+      "rikken": 228.129
+    },
+    {
+      "cityName": "会津美里町",
+      "kokumin": 676.908,
+      "rikken": 2674.091
+    },
+    {
+      "cityName": "西郷村",
+      "kokumin": 780.587,
+      "rikken": 2379.412
+    },
+    {
+      "cityName": "泉崎村",
+      "kokumin": 202.259,
+      "rikken": 872.74
+    },
+    {
+      "cityName": "中島村",
+      "kokumin": 176.943,
+      "rikken": 587.056
+    },
+    {
+      "cityName": "矢吹町",
+      "kokumin": 595.039,
+      "rikken": 2109.96
+    },
+    {
+      "cityName": "棚倉町",
+      "kokumin": 433.245,
+      "rikken": 1658.754
+    },
+    {
+      "cityName": "矢祭町",
+      "kokumin": 155.77,
+      "rikken": 886.229
+    },
+    {
+      "cityName": "塙町",
+      "kokumin": 219.325,
+      "rikken": 1129.674
+    },
+    {
+      "cityName": "鮫川村",
+      "kokumin": 89.678,
+      "rikken": 485.321
+    },
+    {
+      "cityName": "石川町",
+      "kokumin": 370.687,
+      "rikken": 2113.312
+    },
+    {
+      "cityName": "玉川村",
+      "kokumin": 204.368,
+      "rikken": 1080.631
+    },
+    {
+      "cityName": "平田村",
+      "kokumin": 176.756,
+      "rikken": 907.243
+    },
+    {
+      "cityName": "浅川町",
+      "kokumin": 181.93,
+      "rikken": 869.069
+    },
+    {
+      "cityName": "古殿町",
+      "kokumin": 110.092,
+      "rikken": 861.907
+    },
+    {
+      "cityName": "三春町",
+      "kokumin": 603.417,
+      "rikken": 2731.582
+    },
+    {
+      "cityName": "小野町",
+      "kokumin": 284.838,
+      "rikken": 1565.161
+    },
+    {
+      "cityName": "広野町",
+      "kokumin": 193.09,
+      "rikken": 542.909
+    },
+    {
+      "cityName": "楢葉町",
+      "kokumin": 286.778,
+      "rikken": 695.221
+    },
+    {
+      "cityName": "富岡町",
+      "kokumin": 507.033,
+      "rikken": 1296.966
+    },
+    {
+      "cityName": "川内村",
+      "kokumin": 46.75,
+      "rikken": 327.25
+    },
+    {
+      "cityName": "大熊町",
+      "kokumin": 415.252,
+      "rikken": 929.747
+    },
+    {
+      "cityName": "双葉町",
+      "kokumin": 162.163,
+      "rikken": 549.836
+    },
+    {
+      "cityName": "浪江町",
+      "kokumin": 446.488,
+      "rikken": 1697.511
+    },
+    {
+      "cityName": "葛尾村",
+      "kokumin": 28.65,
+      "rikken": 162.35
+    },
+    {
+      "cityName": "新地町",
+      "kokumin": 300.559,
+      "rikken": 1121.44
+    },
+    {
+      "cityName": "飯舘村",
+      "kokumin": 79.791,
+      "rikken": 514.208
+    }
   ]
 }
