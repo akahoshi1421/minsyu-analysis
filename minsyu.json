@@ -895,5 +895,207 @@
       "kokumin": 109.853,
       "rikken": 413.146
     }
+  ],
+  "青森県": [
+    {
+      "cityName": "青森市",
+      "kokumin": 11057.723,
+      "rikken": 30088.276
+    },
+    {
+      "cityName": "弘前市",
+      "kokumin": 6782.619,
+      "rikken": 18691.38
+    },
+    {
+      "cityName": "八戸市",
+      "kokumin": 12555.387,
+      "rikken": 21547.612
+    },
+    {
+      "cityName": "黒石市",
+      "kokumin": 1059.603,
+      "rikken": 3254.396
+    },
+    {
+      "cityName": "五所河原市",
+      "kokumin": 1788.694,
+      "rikken": 6476.305
+    },
+    {
+      "cityName": "十和田市",
+      "kokumin": 2696.996,
+      "rikken": 5377.003
+    },
+    {
+      "cityName": "三沢市",
+      "kokumin": 2477.196,
+      "rikken": 2351.803
+    },
+    {
+      "cityName": "むつ市",
+      "kokumin": 1957.006,
+      "rikken": 5492.993
+    },
+    {
+      "cityName": "つがる市",
+      "kokumin": 977.767,
+      "rikken": 3493.232
+    },
+    {
+      "cityName": "平川市",
+      "kokumin": 1107.689,
+      "rikken": 3081.31
+    },
+    {
+      "cityName": "平内町",
+      "kokumin": 334.592,
+      "rikken": 1170.407
+    },
+    {
+      "cityName": "今別町",
+      "kokumin": 48.037,
+      "rikken": 334.962
+    },
+    {
+      "cityName": "蓬田村",
+      "kokumin": 89.157,
+      "rikken": 370.842
+    },
+    {
+      "cityName": "外ヶ浜町",
+      "kokumin": 137.454,
+      "rikken": 674.545
+    },
+    {
+      "cityName": "鯵ヶ沢町",
+      "kokumin": 247.117,
+      "rikken": 1054.882
+    },
+    {
+      "cityName": "深浦町",
+      "kokumin": 238.294,
+      "rikken": 832.705
+    },
+    {
+      "cityName": "西目屋村",
+      "kokumin": 29.385,
+      "rikken": 157.614
+    },
+    {
+      "cityName": "藤崎町",
+      "kokumin": 535.211,
+      "rikken": 1546.788
+    },
+    {
+      "cityName": "大鰐町",
+      "kokumin": 310.581,
+      "rikken": 991.418
+    },
+    {
+      "cityName": "田舎館村",
+      "kokumin": 344.038,
+      "rikken": 1011.961
+    },
+    {
+      "cityName": "板柳町",
+      "kokumin": 465.113,
+      "rikken": 1399.886
+    },
+    {
+      "cityName": "鶴田町",
+      "kokumin": 384.111,
+      "rikken": 1365.888
+    },
+    {
+      "cityName": "中泊町",
+      "kokumin": 208.924,
+      "rikken": 1576.075
+    },
+    {
+      "cityName": "野辺地町",
+      "kokumin": 467.218,
+      "rikken": 1412.781
+    },
+    {
+      "cityName": "七戸町",
+      "kokumin": 597.063,
+      "rikken": 1275.936
+    },
+    {
+      "cityName": "六戸町",
+      "kokumin": 554.124,
+      "rikken": 755.875
+    },
+    {
+      "cityName": "横浜町",
+      "kokumin": 163.269,
+      "rikken": 342.73
+    },
+    {
+      "cityName": "東北町",
+      "kokumin": 740.952,
+      "rikken": 1252.047
+    },
+    {
+      "cityName": "六ヶ所村",
+      "kokumin": 714.815,
+      "rikken": 707.184
+    },
+    {
+      "cityName": "おいらせ町",
+      "kokumin": 1556.237,
+      "rikken": 1920.762
+    },
+    {
+      "cityName": "大間町",
+      "kokumin": 131.405,
+      "rikken": 365.594
+    },
+    {
+      "cityName": "東通村",
+      "kokumin": 239.204,
+      "rikken": 513.795
+    },
+    {
+      "cityName": "風間浦村",
+      "kokumin": 54.254,
+      "rikken": 236.745
+    },
+    {
+      "cityName": "佐井村",
+      "kokumin": 42.61,
+      "rikken": 210.389
+    },
+    {
+      "cityName": "三戸町",
+      "kokumin": 413.205,
+      "rikken": 1181.794
+    },
+    {
+      "cityName": "五戸町",
+      "kokumin": 710.754,
+      "rikken": 1767.245
+    },
+    {
+      "cityName": "田子町",
+      "kokumin": 213.501,
+      "rikken": 425.498
+    },
+    {
+      "cityName": "南部村",
+      "kokumin": 792.479,
+      "rikken": 1770.52
+    },
+    {
+      "cityName": "階上町",
+      "kokumin": 607.709,
+      "rikken": 1277.29
+    },
+    {
+      "cityName": "新郷村",
+      "kokumin": 100.467,
+      "rikken": 271.532
+    }
   ]
 }
