@@ -1224,5 +1224,172 @@
       "kokumin": 223.374,
       "rikken": 166.625
     }
+  ],
+  "岩手県": [
+    {
+      "cityName": "盛岡市",
+      "kokumin": 13126.158,
+      "rikken": 43361.841
+    },
+    {
+      "cityName": "宮古市",
+      "kokumin": 1509.584,
+      "rikken": 6059.415
+    },
+    {
+      "cityName": "大船渡市",
+      "kokumin": 1384.929,
+      "rikken": 4685.07
+    },
+    {
+      "cityName": "花巻市",
+      "kokumin": 3385.631,
+      "rikken": 14238.368
+    },
+    {
+      "cityName": "北上市",
+      "kokumin": 3839.754,
+      "rikken": 12905.245
+    },
+    {
+      "cityName": "久慈市",
+      "kokumin": 752.752,
+      "rikken": 3946.247
+    },
+    {
+      "cityName": "遠野市",
+      "kokumin": 765.365,
+      "rikken": 3233.634
+    },
+    {
+      "cityName": "一関市",
+      "kokumin": 3502.117,
+      "rikken": 16993.882
+    },
+    {
+      "cityName": "陸前高田市",
+      "kokumin": 650.937,
+      "rikken": 2903.062
+    },
+    {
+      "cityName": "釜石市",
+      "kokumin": 845.0,
+      "rikken": 4225.0
+    },
+    {
+      "cityName": "二戸市",
+      "kokumin": 570.351,
+      "rikken": 2953.648
+    },
+    {
+      "cityName": "八幡平市",
+      "kokumin": 652.609,
+      "rikken": 2869.39
+    },
+    {
+      "cityName": "奥州市",
+      "kokumin": 4675.03,
+      "rikken": 19150.969
+    },
+    {
+      "cityName": "滝沢市",
+      "kokumin": 2186.128,
+      "rikken": 7525.871
+    },
+    {
+      "cityName": "雫石町",
+      "kokumin": 444.292,
+      "rikken": 2431.707
+    },
+    {
+      "cityName": "葛巻町",
+      "kokumin": 122.52,
+      "rikken": 665.479
+    },
+    {
+      "cityName": "岩手町",
+      "kokumin": 319.43,
+      "rikken": 1415.569
+    },
+    {
+      "cityName": "紫波町",
+      "kokumin": 1330.551,
+      "rikken": 4843.448
+    },
+    {
+      "cityName": "矢巾町",
+      "kokumin": 1055.079,
+      "rikken": 3996.92
+    },
+    {
+      "cityName": "西和賀町",
+      "kokumin": 125.424,
+      "rikken": 858.575
+    },
+    {
+      "cityName": "金ケ崎町",
+      "kokumin": 685.031,
+      "rikken": 2426.968
+    },
+    {
+      "cityName": "平泉町",
+      "kokumin": 266.142,
+      "rikken": 1188.857
+    },
+    {
+      "cityName": "住田町",
+      "kokumin": 126.675,
+      "rikken": 856.324
+    },
+    {
+      "cityName": "大槌町",
+      "kokumin": 258.677,
+      "rikken": 1175.322
+    },
+    {
+      "cityName": "山田町",
+      "kokumin": 382.108,
+      "rikken": 1291.891
+    },
+    {
+      "cityName": "岩泉町",
+      "kokumin": 222.962,
+      "rikken": 1100.037
+    },
+    {
+      "cityName": "田野畑村",
+      "kokumin": 62.571,
+      "rikken": 375.428
+    },
+    {
+      "cityName": "普代村",
+      "kokumin": 41.422,
+      "rikken": 304.577
+    },
+    {
+      "cityName": "軽米町",
+      "kokumin": 223.256,
+      "rikken": 1010.743
+    },
+    {
+      "cityName": "野田村",
+      "kokumin": 95.601,
+      "rikken": 494.398
+    },
+    {
+      "cityName": "九戸村",
+      "kokumin": 104.506,
+      "rikken": 567.493
+    },
+    {
+      "cityName": "洋野町",
+      "kokumin": 387.558,
+      "rikken": 1819.441
+    },
+    {
+      "cityName": "一戸町",
+      "kokumin": 319.397,
+      "rikken": 1530.602
+    }
   ]
 }
