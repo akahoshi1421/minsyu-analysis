@@ -1865,5 +1865,157 @@
       "kokumin": 304.58,
       "rikken": 865.419
     }
+  ],
+  "新潟県": [
+    {
+      "cityName": "新潟市",
+      "kokumin": 39765.437,
+      "rikken": 97128.555
+    },
+    {
+      "cityName": "佐渡市",
+      "kokumin": 1791.61,
+      "rikken": 6310.389
+    },
+    {
+      "cityName": "三条市",
+      "kokumin": 4556.925,
+      "rikken": 12228.074
+    },
+    {
+      "cityName": "加茂市",
+      "kokumin": 1148.858,
+      "rikken": 3819.141
+    },
+    {
+      "cityName": "燕市",
+      "kokumin": 4269.169,
+      "rikken": 9822.83
+    },
+    {
+      "cityName": "弥彦村",
+      "kokumin": 375.965,
+      "rikken": 1168.034
+    },
+    {
+      "cityName": "田上町",
+      "kokumin": 471.603,
+      "rikken": 1659.396
+    },
+    {
+      "cityName": "新発田市",
+      "kokumin": 4353.974,
+      "rikken": 12585.025
+    },
+    {
+      "cityName": "村上市",
+      "kokumin": 2202.522,
+      "rikken": 7415.478
+    },
+    {
+      "cityName": "五泉市",
+      "kokumin": 1891.058,
+      "rikken": 6145.941
+    },
+    {
+      "cityName": "阿賀野市",
+      "kokumin": 1577.827,
+      "rikken": 5141.172
+    },
+    {
+      "cityName": "胎内市",
+      "kokumin": 1372.867,
+      "rikken": 3693.132
+    },
+    {
+      "cityName": "聖籠町",
+      "kokumin": 683.2,
+      "rikken": 1463.799
+    },
+    {
+      "cityName": "阿賀町",
+      "kokumin": 235.098,
+      "rikken": 1690.901
+    },
+    {
+      "cityName": "関川村",
+      "kokumin": 205.564,
+      "rikken": 664.435
+    },
+    {
+      "cityName": "粟島浦村",
+      "kokumin": 16.2,
+      "rikken": 37.8
+    },
+    {
+      "cityName": "長岡市",
+      "kokumin": 12563.37,
+      "rikken": 34603.629
+    },
+    {
+      "cityName": "柏崎市",
+      "kokumin": 4002.895,
+      "rikken": 10499.104
+    },
+    {
+      "cityName": "小千谷市",
+      "kokumin": 1581.535,
+      "rikken": 5186.464
+    },
+    {
+      "cityName": "見附市",
+      "kokumin": 2060.468,
+      "rikken": 5905.531
+    },
+    {
+      "cityName": "出雲崎町",
+      "kokumin": 161.898,
+      "rikken": 506.101
+    },
+    {
+      "cityName": "刈羽村",
+      "kokumin": 210.5,
+      "rikken": 605.499
+    },
+    {
+      "cityName": "十日町市",
+      "kokumin": 2172.068,
+      "rikken": 6640.931
+    },
+    {
+      "cityName": "糸魚川市",
+      "kokumin": 1567.741,
+      "rikken": 5287.258
+    },
+    {
+      "cityName": "妙高市",
+      "kokumin": 1325.332,
+      "rikken": 4576.667
+    },
+    {
+      "cityName": "上越市",
+      "kokumin": 8910.784,
+      "rikken": 27465.215
+    },
+    {
+      "cityName": "魚沼市",
+      "kokumin": 1463.212,
+      "rikken": 4769.787
+    },
+    {
+      "cityName": "南魚沼市",
+      "kokumin": 2457.782,
+      "rikken": 6756.217
+    },
+    {
+      "cityName": "湯沢町",
+      "kokumin": 374.669,
+      "rikken": 988.33
+    },
+    {
+      "cityName": "津南町",
+      "kokumin": 390.242,
+      "rikken": 1188.757
+    }
   ]
 }
