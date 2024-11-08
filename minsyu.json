@@ -1689,6 +1689,183 @@
       "rikken": 514.208
     }
   ],
+  "山形県": [
+    {
+      "cityName": "山形市",
+      "kokumin": 13321.132,
+      "rikken": 29228.867
+    },
+    {
+      "cityName": "米沢市",
+      "kokumin": 6028.147,
+      "rikken": 6647.852
+    },
+    {
+      "cityName": "鶴岡市",
+      "kokumin": 5378.128,
+      "rikken": 12622.871
+    },
+    {
+      "cityName": "酒田市",
+      "kokumin": 4423.184,
+      "rikken": 13883.815
+    },
+    {
+      "cityName": "新庄市",
+      "kokumin": 1394.617,
+      "rikken": 3996.382
+    },
+    {
+      "cityName": "寒河江市",
+      "kokumin": 3022.563,
+      "rikken": 3564.437
+    },
+    {
+      "cityName": "上山市",
+      "kokumin": 1409.941,
+      "rikken": 3470.058
+    },
+    {
+      "cityName": "村山市",
+      "kokumin": 2607.033,
+      "rikken": 1555.966
+    },
+    {
+      "cityName": "長井市",
+      "kokumin": 1895.652,
+      "rikken": 2464.347
+    },
+    {
+      "cityName": "天童市",
+      "kokumin": 2915.917,
+      "rikken": 6232.082
+    },
+    {
+      "cityName": "東根市",
+      "kokumin": 3563.02,
+      "rikken": 3280.979
+    },
+    {
+      "cityName": "尾花沢市",
+      "kokumin": 1220.793,
+      "rikken": 1186.206
+    },
+    {
+      "cityName": "南陽市",
+      "kokumin": 2215.261,
+      "rikken": 2433.738
+    },
+    {
+      "cityName": "山辺町",
+      "kokumin": 691.445,
+      "rikken": 1768.554
+    },
+    {
+      "cityName": "中山町",
+      "kokumin": 556.188,
+      "rikken": 1340.811
+    },
+    {
+      "cityName": "河北町",
+      "kokumin": 1299.656,
+      "rikken": 1787.343
+    },
+    {
+      "cityName": "西川町",
+      "kokumin": 412.356,
+      "rikken": 464.643
+    },
+    {
+      "cityName": "朝日町",
+      "kokumin": 525.715,
+      "rikken": 540.284
+    },
+    {
+      "cityName": "大江町",
+      "kokumin": 636.933,
+      "rikken": 856.066
+    },
+    {
+      "cityName": "大石田町",
+      "kokumin": 415.853,
+      "rikken": 534.146
+    },
+    {
+      "cityName": "金山町",
+      "kokumin": 211.851,
+      "rikken": 510.148
+    },
+    {
+      "cityName": "最上町",
+      "kokumin": 355.972,
+      "rikken": 925.027
+    },
+    {
+      "cityName": "舟形町",
+      "kokumin": 201.351,
+      "rikken": 538.648
+    },
+    {
+      "cityName": "真室川町",
+      "kokumin": 257.643,
+      "rikken": 854.356
+    },
+    {
+      "cityName": "大蔵村",
+      "kokumin": 139.85,
+      "rikken": 327.149
+    },
+    {
+      "cityName": "鮭川村",
+      "kokumin": 175.309,
+      "rikken": 464.69
+    },
+    {
+      "cityName": "戸沢村",
+      "kokumin": 156.069,
+      "rikken": 443.93
+    },
+    {
+      "cityName": "高畠町",
+      "kokumin": 1570.361,
+      "rikken": 1775.638
+    },
+    {
+      "cityName": "川西町",
+      "kokumin": 1130.635,
+      "rikken": 1175.364
+    },
+    {
+      "cityName": "小国町",
+      "kokumin": 885.484,
+      "rikken": 534.515
+    },
+    {
+      "cityName": "白鷹町",
+      "kokumin": 1250.344,
+      "rikken": 1102.655
+    },
+    {
+      "cityName": "飯豊町",
+      "kokumin": 686.796,
+      "rikken": 663.203
+    },
+    {
+      "cityName": "三川町",
+      "kokumin": 351.889,
+      "rikken": 873.11
+    },
+    {
+      "cityName": "庄内町",
+      "kokumin": 898.873,
+      "rikken": 2675.126
+    },
+    {
+      "cityName": "遊佐町",
+      "kokumin": 586.708,
+      "rikken": 1872.291
+    }
+  ],
   "宮城県": [
     {
       "cityName": "仙台市",
