@@ -2,4 +2,5 @@
 青森県: https://www.pref.aomori.lg.jp/soshiki/senkan/files2/2024_kaihyoc_hi.pdf
 秋田県: https://www.pref.akita.lg.jp/uploads/public/archive_0000084903_00/%E9%96%8B%E7%A5%A8%E7%B5%90%E6%9E%9C%EF%BC%88%E6%AF%94%E4%BE%8B%EF%BC%89/kaihyou7_10281430.xlsx
 岩手県: https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/078/086/hirei02.xlsx
+宮城県: https://senkyo-sokuhou.pref.miyagi.jp/shuugi-koukai/HTML/kaihyoc_hi.html
 福島県: http://www.pref.fukushima.jp/senkan/50shuuin/sokuhou/20241027/xlsx/KO01.xlsx

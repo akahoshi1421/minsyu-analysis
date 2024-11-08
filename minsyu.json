@@ -1688,5 +1688,182 @@
       "kokumin": 79.791,
       "rikken": 514.208
     }
+  ],
+  "宮城県": [
+    {
+      "cityName": "仙台市",
+      "kokumin": 59001.457,
+      "rikken": 117979.538
+    },
+    {
+      "cityName": "石巻市",
+      "kokumin": 4245.649,
+      "rikken": 16152.35
+    },
+    {
+      "cityName": "塩竈市",
+      "kokumin": 1883.446,
+      "rikken": 5781.553
+    },
+    {
+      "cityName": "気仙沼市",
+      "kokumin": 1691.649,
+      "rikken": 5114.35
+    },
+    {
+      "cityName": "白石市",
+      "kokumin": 1317.227,
+      "rikken": 4295.772
+    },
+    {
+      "cityName": "名取市",
+      "kokumin": 4070.133,
+      "rikken": 9869.866
+    },
+    {
+      "cityName": "角田市",
+      "kokumin": 974.843,
+      "rikken": 3442.156
+    },
+    {
+      "cityName": "多賀城市",
+      "kokumin": 2513.284,
+      "rikken": 6158.715
+    },
+    {
+      "cityName": "岩沼市",
+      "kokumin": 2128.497,
+      "rikken": 5104.502
+    },
+    {
+      "cityName": "登米市",
+      "kokumin": 2268.511,
+      "rikken": 6740.488
+    },
+    {
+      "cityName": "栗原市",
+      "kokumin": 1949.477,
+      "rikken": 6925.522
+    },
+    {
+      "cityName": "東松島市",
+      "kokumin": 1375.197,
+      "rikken": 4603.802
+    },
+    {
+      "cityName": "大崎市",
+      "kokumin": 4506.998,
+      "rikken": 11192.001
+    },
+    {
+      "cityName": "富谷市",
+      "kokumin": 2640.249,
+      "rikken": 6590.75
+    },
+    {
+      "cityName": "蔵王町",
+      "kokumin": 357.773,
+      "rikken": 1250.226
+    },
+    {
+      "cityName": "七ヶ宿町",
+      "kokumin": 36.702,
+      "rikken": 157.297
+    },
+    {
+      "cityName": "大河原町",
+      "kokumin": 1037.35,
+      "rikken": 2999.649
+    },
+    {
+      "cityName": "村田町",
+      "kokumin": 379.642,
+      "rikken": 1442.357
+    },
+    {
+      "cityName": "柴田町",
+      "kokumin": 1501.568,
+      "rikken": 4467.431
+    },
+    {
+      "cityName": "川崎町",
+      "kokumin": 295.132,
+      "rikken": 854.867
+    },
+    {
+      "cityName": "丸森町",
+      "kokumin": 410.741,
+      "rikken": 1594.258
+    },
+    {
+      "cityName": "亘理町",
+      "kokumin": 1298.805,
+      "rikken": 4078.194
+    },
+    {
+      "cityName": "山元町",
+      "kokumin": 379.124,
+      "rikken": 1454.875
+    },
+    {
+      "cityName": "松島町",
+      "kokumin": 471.42,
+      "rikken": 1718.579
+    },
+    {
+      "cityName": "七ヶ浜町",
+      "kokumin": 656.718,
+      "rikken": 2080.281
+    },
+    {
+      "cityName": "利府町",
+      "kokumin": 1578.283,
+      "rikken": 4574.716
+    },
+    {
+      "cityName": "大和町",
+      "kokumin": 1212.179,
+      "rikken": 2958.82
+    },
+    {
+      "cityName": "大郷町",
+      "kokumin": 191.068,
+      "rikken": 923.931
+    },
+    {
+      "cityName": "大衡村",
+      "kokumin": 196.794,
+      "rikken": 610.205
+    },
+    {
+      "cityName": "色麻町",
+      "kokumin": 185.863,
+      "rikken": 655.136
+    },
+    {
+      "cityName": "加美町",
+      "kokumin": 709.193,
+      "rikken": 1873.806
+    },
+    {
+      "cityName": "涌谷町",
+      "kokumin": 417.037,
+      "rikken": 1604.962
+    },
+    {
+      "cityName": "美里町",
+      "kokumin": 743.18,
+      "rikken": 2742.819
+    },
+    {
+      "cityName": "女川町",
+      "kokumin": 257.204,
+      "rikken": 533.795
+    },
+    {
+      "cityName": "南三陸町",
+      "kokumin": 304.58,
+      "rikken": 865.419
+    }
   ]
 }
