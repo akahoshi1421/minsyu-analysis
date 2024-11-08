@@ -1097,5 +1097,132 @@
       "kokumin": 100.467,
       "rikken": 271.532
     }
+  ],
+  "秋田県": [
+    {
+      "cityName": "秋田市",
+      "kokumin": 14772.206,
+      "rikken": 35653.793
+    },
+    {
+      "cityName": "能代市",
+      "kokumin": 1821.375,
+      "rikken": 6356.624
+    },
+    {
+      "cityName": "横手市",
+      "kokumin": 8773.135,
+      "rikken": 7988.864
+    },
+    {
+      "cityName": "大館市",
+      "kokumin": 2393.618,
+      "rikken": 9465.381
+    },
+    {
+      "cityName": "男鹿市",
+      "kokumin": 849.665,
+      "rikken": 2796.334
+    },
+    {
+      "cityName": "湯沢市",
+      "kokumin": 3994.734,
+      "rikken": 3230.265
+    },
+    {
+      "cityName": "鹿角市",
+      "kokumin": 907.465,
+      "rikken": 3324.534
+    },
+    {
+      "cityName": "由利本荘市",
+      "kokumin": 11972.128,
+      "rikken": 5682.871
+    },
+    {
+      "cityName": "潟上市",
+      "kokumin": 1204.28,
+      "rikken": 3466.719
+    },
+    {
+      "cityName": "大仙市",
+      "kokumin": 6138.057,
+      "rikken": 6212.942
+    },
+    {
+      "cityName": "北秋田市",
+      "kokumin": 795.954,
+      "rikken": 3735.045
+    },
+    {
+      "cityName": "にかほ市",
+      "kokumin": 3155.145,
+      "rikken": 1892.854
+    },
+    {
+      "cityName": "仙北市",
+      "kokumin": 1986,
+      "rikken": 2052
+    },
+    {
+      "cityName": "小坂町",
+      "kokumin": 158.26,
+      "rikken": 737.739
+    },
+    {
+      "cityName": "上小阿仁村",
+      "kokumin": 73.717,
+      "rikken": 259.282
+    },
+    {
+      "cityName": "藤里町",
+      "kokumin": 66.019,
+      "rikken": 414.98
+    },
+    {
+      "cityName": "三種町",
+      "kokumin": 657.397,
+      "rikken": 1524.602
+    },
+    {
+      "cityName": "八峰町",
+      "kokumin": 160.431,
+      "rikken": 777.568
+    },
+    {
+      "cityName": "五城目町",
+      "kokumin": 333.033,
+      "rikken": 1035.966
+    },
+    {
+      "cityName": "八郎潟町",
+      "kokumin": 229.517,
+      "rikken": 783.482
+    },
+    {
+      "cityName": "井川町",
+      "kokumin": 175.579,
+      "rikken": 513.42
+    },
+    {
+      "cityName": "大潟村",
+      "kokumin": 222.824,
+      "rikken": 395.175
+    },
+    {
+      "cityName": "美郷町",
+      "kokumin": 1621.922,
+      "rikken": 1436.077
+    },
+    {
+      "cityName": "羽後町",
+      "kokumin": 1665.035,
+      "rikken": 1091.964
+    },
+    {
+      "cityName": "東成瀬村",
+      "kokumin": 223.374,
+      "rikken": 166.625
+    }
   ]
 }
