@@ -2194,5 +2194,227 @@
       "kokumin": 390.242,
       "rikken": 1188.757
     }
+  ],
+  "茨城県": [
+    {
+      "cityName": "水戸市",
+      "kokumin": 13079.797,
+      "rikken": 20721.202
+    },
+    {
+      "cityName": "日立市",
+      "kokumin": 19101.686,
+      "rikken": 11491.313
+    },
+    {
+      "cityName": "土浦市",
+      "kokumin": 6446.715,
+      "rikken": 14937.284
+    },
+    {
+      "cityName": "古河市",
+      "kokumin": 5715.194,
+      "rikken": 10339.805
+    },
+    {
+      "cityName": "石岡市",
+      "kokumin": 2961.491,
+      "rikken": 7319.508
+    },
+    {
+      "cityName": "結城市",
+      "kokumin": 2072.25,
+      "rikken": 4118.749
+    },
+    {
+      "cityName": "龍ケ崎市",
+      "kokumin": 2974.451,
+      "rikken": 7306.548
+    },
+    {
+      "cityName": "下妻市",
+      "kokumin": 1590.624,
+      "rikken": 2712.375
+    },
+    {
+      "cityName": "常総市",
+      "kokumin": 2208.12,
+      "rikken": 4194.879
+    },
+    {
+      "cityName": "常陸太田市",
+      "kokumin": 2180.069,
+      "rikken": 4077.93
+    },
+    {
+      "cityName": "高萩市",
+      "kokumin": 2561.681,
+      "rikken": 1848.318
+    },
+    {
+      "cityName": "北茨城市",
+      "kokumin": 3428.434,
+      "rikken": 2691.565
+    },
+    {
+      "cityName": "笠間市",
+      "kokumin": 3064.916,
+      "rikken": 5851.083
+    },
+    {
+      "cityName": "取手市",
+      "kokumin": 4670.544,
+      "rikken": 10812.455
+    },
+    {
+      "cityName": "牛久市",
+      "kokumin": 4104.719,
+      "rikken": 9156.28
+    },
+    {
+      "cityName": "つくば市",
+      "kokumin": 16814.811,
+      "rikken": 25362.188
+    },
+    {
+      "cityName": "ひたちなか市",
+      "kokumin": 9437.562,
+      "rikken": 10820.437
+    },
+    {
+      "cityName": "鹿嶋市",
+      "kokumin": 2443.206,
+      "rikken": 4514.793
+    },
+    {
+      "cityName": "潮来市",
+      "kokumin": 836.006,
+      "rikken": 1729.993
+    },
+    {
+      "cityName": "守谷市",
+      "kokumin": 4548.163,
+      "rikken": 7184.836
+    },
+    {
+      "cityName": "常陸大宮市",
+      "kokumin": 1348.094,
+      "rikken": 2826.905
+    },
+    {
+      "cityName": "那珂市",
+      "kokumin": 2337.045,
+      "rikken": 4155.954
+    },
+    {
+      "cityName": "筑西市",
+      "kokumin": 3962.334,
+      "rikken": 7004.665
+    },
+    {
+      "cityName": "坂東市",
+      "kokumin": 1921.553,
+      "rikken": 3346.446
+    },
+    {
+      "cityName": "稲敷市",
+      "kokumin": 1053.43,
+      "rikken": 2777.569
+    },
+    {
+      "cityName": "かすみがうら市",
+      "kokumin": 1770.513,
+      "rikken": 4388.486
+    },
+    {
+      "cityName": "桜川市",
+      "kokumin": 1514.202,
+      "rikken": 2904.797
+    },
+    {
+      "cityName": "神栖市",
+      "kokumin": 3604.218,
+      "rikken": 4496.781
+    },
+    {
+      "cityName": "行方市",
+      "kokumin": 1089.129,
+      "rikken": 1970.87
+    },
+    {
+      "cityName": "鉾田市",
+      "kokumin": 1438.721,
+      "rikken": 2752.278
+    },
+    {
+      "cityName": "つくばみらい市",
+      "kokumin": 2858.384,
+      "rikken": 4973.615
+    },
+    {
+      "cityName": "小美玉市",
+      "kokumin": 1855.595,
+      "rikken": 3050.404
+    },
+    {
+      "cityName": "茨城町",
+      "kokumin": 1038.443,
+      "rikken": 1812.556
+    },
+    {
+      "cityName": "大洗町",
+      "kokumin": 552,
+      "rikken": 900
+    },
+    {
+      "cityName": "城里町",
+      "kokumin": 665.376,
+      "rikken": 1464.623
+    },
+    {
+      "cityName": "東海村",
+      "kokumin": 4041.617,
+      "rikken": 2344.382
+    },
+    {
+      "cityName": "大子町",
+      "kokumin": 436.286,
+      "rikken": 1105.713
+    },
+    {
+      "cityName": "美浦村",
+      "kokumin": 431.723,
+      "rikken": 1217.276
+    },
+    {
+      "cityName": "阿見町",
+      "kokumin": 1859.533,
+      "rikken": 4324.466
+    },
+    {
+      "cityName": "河内町",
+      "kokumin": 238.214,
+      "rikken": 617.785
+    },
+    {
+      "cityName": "八千代町",
+      "kokumin": 735.751,
+      "rikken": 1377.248
+    },
+    {
+      "cityName": "五霞町",
+      "kokumin": 308.638,
+      "rikken": 667.361
+    },
+    {
+      "cityName": "境町",
+      "kokumin": 984.196,
+      "rikken": 1885.803
+    },
+    {
+      "cityName": "利根町",
+      "kokumin": 504.542,
+      "rikken": 1877.457
+    }
   ]
 }
