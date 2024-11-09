@@ -7,3 +7,4 @@
 福島県: http://www.pref.fukushima.jp/senkan/50shuuin/sokuhou/20241027/xlsx/KO01.xlsx
 新潟県: https://www.websenkyo.pref.niigata.lg.jp/50shugi/files/2/5/hirei_kaihyo-kekka.csv
 茨城県: https://www.pref.ibaraki.jp/somu/shichoson/senkyo/documents/ah_kaihyo_k_11_.pdf
+栃木県: https://www.tochigi-senkyo.jp/syugi/file/BH_KAIHYO.html

@@ -2416,5 +2416,132 @@
       "kokumin": 504.542,
       "rikken": 1877.457
     }
+  ],
+  "栃木県": [
+    {
+      "cityName": "宇都宮市",
+      "kokumin": 23480.969,
+      "rikken": 49298.029
+    },
+    {
+      "cityName": "足利市",
+      "kokumin": 4717.681,
+      "rikken": 9884.318
+    },
+    {
+      "cityName": "栃木市",
+      "kokumin": 5696.813,
+      "rikken": 12386.186
+    },
+    {
+      "cityName": "佐野市",
+      "kokumin": 4091.917,
+      "rikken": 7950.082
+    },
+    {
+      "cityName": "鹿沼市",
+      "kokumin": 3086.34,
+      "rikken": 9604.659
+    },
+    {
+      "cityName": "日光市",
+      "kokumin": 2526.058,
+      "rikken": 8730.941
+    },
+    {
+      "cityName": "小山市",
+      "kokumin": 7073.541,
+      "rikken": 19761.458
+    },
+    {
+      "cityName": "真岡市",
+      "kokumin": 2980.982,
+      "rikken": 8228.017
+    },
+    {
+      "cityName": "大田原市",
+      "kokumin": 2478.625,
+      "rikken": 6790.374
+    },
+    {
+      "cityName": "矢板市",
+      "kokumin": 1115.443,
+      "rikken": 3296.556
+    },
+    {
+      "cityName": "那須塩原市",
+      "kokumin": 4510.933,
+      "rikken": 10443.066
+    },
+    {
+      "cityName": "さくら市",
+      "kokumin": 1992.956,
+      "rikken": 4175.043
+    },
+    {
+      "cityName": "那須烏山市",
+      "kokumin": 715.645,
+      "rikken": 2631.354
+    },
+    {
+      "cityName": "下野市",
+      "kokumin": 3057.106,
+      "rikken": 7402.893
+    },
+    {
+      "cityName": "上三川町",
+      "kokumin": 1481.359,
+      "rikken": 3077.64
+    },
+    {
+      "cityName": "益子町",
+      "kokumin": 870.275,
+      "rikken": 2779.724
+    },
+    {
+      "cityName": "茂木町",
+      "kokumin": 376.38,
+      "rikken": 1587.618
+    },
+    {
+      "cityName": "市貝町",
+      "kokumin": 407.49,
+      "rikken": 1488.509
+    },
+    {
+      "cityName": "芳賀町",
+      "kokumin": 601.573,
+      "rikken": 1984.426
+    },
+    {
+      "cityName": "壬生町",
+      "kokumin": 1504.346,
+      "rikken": 3943.653
+    },
+    {
+      "cityName": "野木町",
+      "kokumin": 1004.349,
+      "rikken": 3135.65
+    },
+    {
+      "cityName": "塩谷町",
+      "kokumin": 275.879,
+      "rikken": 1249.12
+    },
+    {
+      "cityName": "高根沢町",
+      "kokumin": 1526.517,
+      "rikken": 2921.482
+    },
+    {
+      "cityName": "那須町",
+      "kokumin": 720.761,
+      "rikken": 2676.238
+    },
+    {
+      "cityName": "那珂川町",
+      "kokumin": 411.517,
+      "rikken": 1571.482
+    }
   ]
 }
