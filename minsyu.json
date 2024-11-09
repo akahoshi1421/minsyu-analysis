@@ -2543,5 +2543,177 @@
       "kokumin": 411.517,
       "rikken": 1571.482
     }
+  ],
+  "群馬県": [
+    {
+      "cityName": "前橋市",
+      "kokumin": 11934.346,
+      "rikken": 30518.653
+    },
+    {
+      "cityName": "高崎市",
+      "kokumin": 15323.883,
+      "rikken": 32077.115
+    },
+    {
+      "cityName": "桐生市",
+      "kokumin": 3302.133,
+      "rikken": 7799.866
+    },
+    {
+      "cityName": "伊勢崎市",
+      "kokumin": 7268.531,
+      "rikken": 13989.468
+    },
+    {
+      "cityName": "太田市",
+      "kokumin": 7872.708,
+      "rikken": 20469.291
+    },
+    {
+      "cityName": "沼田市",
+      "kokumin": 1277.453,
+      "rikken": 3640.546
+    },
+    {
+      "cityName": "館林市",
+      "kokumin": 2776.2,
+      "rikken": 6848.799
+    },
+    {
+      "cityName": "渋川市",
+      "kokumin": 2188.517,
+      "rikken": 5246.482
+    },
+    {
+      "cityName": "藤岡市",
+      "kokumin": 1889.775,
+      "rikken": 5355.224
+    },
+    {
+      "cityName": "富岡市",
+      "kokumin": 1411.79,
+      "rikken": 3319.209
+    },
+    {
+      "cityName": "安中市",
+      "kokumin": 1677.09,
+      "rikken": 4754.909
+    },
+    {
+      "cityName": "みどり市",
+      "kokumin": 1616.346,
+      "rikken": 3505.653
+    },
+    {
+      "cityName": "榛東村",
+      "kokumin": 526.031,
+      "rikken": 871.968
+    },
+    {
+      "cityName": "吉岡町",
+      "kokumin": 850.706,
+      "rikken": 1553.293
+    },
+    {
+      "cityName": "上野村",
+      "kokumin": 36.867,
+      "rikken": 106.132
+    },
+    {
+      "cityName": "神流町",
+      "kokumin": 34.363,
+      "rikken": 154.636
+    },
+    {
+      "cityName": "下仁田町",
+      "kokumin": 150.185,
+      "rikken": 456.814
+    },
+    {
+      "cityName": "南牧村",
+      "kokumin": 36.688,
+      "rikken": 92.311
+    },
+    {
+      "cityName": "甘楽町",
+      "kokumin": 360.481,
+      "rikken": 1051.518
+    },
+    {
+      "cityName": "中之条町",
+      "kokumin": 429.819,
+      "rikken": 1188.18
+    },
+    {
+      "cityName": "長野原町",
+      "kokumin": 151.354,
+      "rikken": 315.645
+    },
+    {
+      "cityName": "嬬恋村",
+      "kokumin": 247.331,
+      "rikken": 595.668
+    },
+    {
+      "cityName": "草津町",
+      "kokumin": 150.455,
+      "rikken": 336.544
+    },
+    {
+      "cityName": "高山村",
+      "kokumin": 104.194,
+      "rikken": 236.805
+    },
+    {
+      "cityName": "東吾妻町",
+      "kokumin": 344.632,
+      "rikken": 1074.367
+    },
+    {
+      "cityName": "片品村",
+      "kokumin": 96.698,
+      "rikken": 334.301
+    },
+    {
+      "cityName": "川場村",
+      "kokumin": 83.011,
+      "rikken": 279.988
+    },
+    {
+      "cityName": "昭和村",
+      "kokumin": 194.166,
+      "rikken": 504.833
+    },
+    {
+      "cityName": "みなかみ町",
+      "kokumin": 474.355,
+      "rikken": 1648.644
+    },
+    {
+      "cityName": "板倉町",
+      "kokumin": 508.187,
+      "rikken": 1471.812
+    },
+    {
+      "cityName": "明和町",
+      "kokumin": 382.283,
+      "rikken": 1181.716
+    },
+    {
+      "cityName": "千代田町",
+      "kokumin": 331.846,
+      "rikken": 1079.153
+    },
+    {
+      "cityName": "大泉町",
+      "kokumin": 1369.494,
+      "rikken": 3192.505
+    },
+    {
+      "cityName": "邑楽町",
+      "kokumin": 823.492,
+      "rikken": 2895.507
+    }
   ]
 }

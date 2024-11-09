@@ -8,3 +8,4 @@
 新潟県: https://www.websenkyo.pref.niigata.lg.jp/50shugi/files/2/5/hirei_kaihyo-kekka.csv
 茨城県: https://www.pref.ibaraki.jp/somu/shichoson/senkyo/documents/ah_kaihyo_k_11_.pdf
 栃木県: https://www.tochigi-senkyo.jp/syugi/file/BH_KAIHYO.html
+群馬県: https://www.pref.gunma.jp/uploaded/attachment/641828.pdf
