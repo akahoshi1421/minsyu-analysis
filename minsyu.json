@@ -3783,5 +3783,142 @@
       "kokumin": 73.958,
       "rikken": 281.041
     }
+  ],
+  "山梨県": [
+    {
+      "cityName": "甲府市",
+      "kokumin": 7394.013,
+      "rikken": 20780.986
+    },
+    {
+      "cityName": "富士吉田市",
+      "kokumin": 1753.302,
+      "rikken": 3317.697
+    },
+    {
+      "cityName": "都留市",
+      "kokumin": 1182.522,
+      "rikken": 2350.477
+    },
+    {
+      "cityName": "山梨市",
+      "kokumin": 1250.442,
+      "rikken": 3713.557
+    },
+    {
+      "cityName": "大月市",
+      "kokumin": 827.891,
+      "rikken": 2270.108
+    },
+    {
+      "cityName": "韮崎市",
+      "kokumin": 1147.242,
+      "rikken": 3996.757
+    },
+    {
+      "cityName": "南アルプス市",
+      "kokumin": 2754.471,
+      "rikken": 8133.528
+    },
+    {
+      "cityName": "北杜市",
+      "kokumin": 1719.971,
+      "rikken": 7696.028
+    },
+    {
+      "cityName": "甲斐市",
+      "kokumin": 3212.715,
+      "rikken": 8818.284
+    },
+    {
+      "cityName": "笛吹市",
+      "kokumin": 2935.047,
+      "rikken": 6793.952
+    },
+    {
+      "cityName": "上野原市",
+      "kokumin": 837.95,
+      "rikken": 2287.049
+    },
+    {
+      "cityName": "甲州市",
+      "kokumin": 1183.649,
+      "rikken": 3210.35
+    },
+    {
+      "cityName": "中央市",
+      "kokumin": 1372.506,
+      "rikken": 3530.493
+    },
+    {
+      "cityName": "市川三郷町",
+      "kokumin": 498.798,
+      "rikken": 2067.201
+    },
+    {
+      "cityName": "早川町",
+      "kokumin": 36.25,
+      "rikken": 168.75
+    },
+    {
+      "cityName": "身延町",
+      "kokumin": 288.098,
+      "rikken": 1445.901
+    },
+    {
+      "cityName": "南部町",
+      "kokumin": 275.032,
+      "rikken": 1158.967
+    },
+    {
+      "cityName": "富士川町",
+      "kokumin": 544.491,
+      "rikken": 2194.508
+    },
+    {
+      "cityName": "昭和町",
+      "kokumin": 1007.351,
+      "rikken": 2231.648
+    },
+    {
+      "cityName": "道志村",
+      "kokumin": 73.0,
+      "rikken": 146.0
+    },
+    {
+      "cityName": "西桂町",
+      "kokumin": 153.82,
+      "rikken": 383.179
+    },
+    {
+      "cityName": "忍野村",
+      "kokumin": 605.432,
+      "rikken": 598.567
+    },
+    {
+      "cityName": "山中湖村",
+      "kokumin": 198.841,
+      "rikken": 452.158
+    },
+    {
+      "cityName": "鳴沢村",
+      "kokumin": 136.666,
+      "rikken": 273.333
+    },
+    {
+      "cityName": "富士河口湖町",
+      "kokumin": 1073.382,
+      "rikken": 2193.617
+    },
+    {
+      "cityName": "小菅村",
+      "kokumin": 36.818,
+      "rikken": 53.181
+    },
+    {
+      "cityName": "丹波山村",
+      "kokumin": 15.098,
+      "rikken": 54.901
+    }
   ]
 }

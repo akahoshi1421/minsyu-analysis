@@ -13,3 +13,4 @@
 埼玉県: https://www.pref.saitama.lg.jp/documents/260119/r06_bh_kaihyo_k.xls
 東京都: https://www.senkyo.metro.tokyo.lg.jp/uploads/r610shu_hkai_seitoubetsu.xlsx 
 神奈川県: https://www.pref.kanagawa.jp/documents/110780/r6hirei.xlsx 
+山梨県: http://yamanashi-senkyo.jp/houdou/download.php?sn=4&ft=e&tm=10 
