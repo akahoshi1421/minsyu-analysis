@@ -10,3 +10,4 @@
 栃木県: https://www.tochigi-senkyo.jp/syugi/file/BH_KAIHYO.html
 群馬県: https://www.pref.gunma.jp/uploaded/attachment/641828.pdf
 千葉県: https://www.pref.chiba.lg.jp/senkan/50shuinsen/documents/ko0400.xlsx
+埼玉県: https://www.pref.saitama.lg.jp/documents/260119/r06_bh_kaihyo_k.xls
