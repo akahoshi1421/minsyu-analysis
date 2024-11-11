@@ -2715,5 +2715,277 @@
       "kokumin": 823.492,
       "rikken": 2895.507
     }
+  ],
+  "千葉県": [
+    {
+      "cityName": "千葉市",
+      "kokumin": 54292.908,
+      "rikken": 106663.086
+    },
+    {
+      "cityName": "市川市",
+      "kokumin": 36105.95,
+      "rikken": 48851.048
+    },
+    {
+      "cityName": "船橋市",
+      "kokumin": 36502.354,
+      "rikken": 95193.644
+    },
+    {
+      "cityName": "八千代市",
+      "kokumin": 11182.218,
+      "rikken": 19575.781
+    },
+    {
+      "cityName": "市原市",
+      "kokumin": 11412.978,
+      "rikken": 26864.021
+    },
+    {
+      "cityName": "浦安市",
+      "kokumin": 14987.25,
+      "rikken": 19555.749
+    },
+    {
+      "cityName": "松戸市",
+      "kokumin": 25935.912,
+      "rikken": 50309.087
+    },
+    {
+      "cityName": "野田市",
+      "kokumin": 8651.438,
+      "rikken": 11488.561
+    },
+    {
+      "cityName": "流山市",
+      "kokumin": 19615.499,
+      "rikken": 19251.5
+    },
+    {
+      "cityName": "柏市",
+      "kokumin": 22598.274,
+      "rikken": 48269.725
+    },
+    {
+      "cityName": "佐倉市",
+      "kokumin": 8121.308,
+      "rikken": 22521.691
+    },
+    {
+      "cityName": "四街道市",
+      "kokumin": 4309.351,
+      "rikken": 10454.648
+    },
+    {
+      "cityName": "八街市",
+      "kokumin": 2068.93,
+      "rikken": 5262.069
+    },
+    {
+      "cityName": "銚子市",
+      "kokumin": 1733.988,
+      "rikken": 5012.011
+    },
+    {
+      "cityName": "成田市",
+      "kokumin": 5909.291,
+      "rikken": 12501.708
+    },
+    {
+      "cityName": "旭市",
+      "kokumin": 2186.907,
+      "rikken": 5925.092
+    },
+    {
+      "cityName": "匝瑳市",
+      "kokumin": 1132.834,
+      "rikken": 3240.165
+    },
+    {
+      "cityName": "香取市",
+      "kokumin": 2545.134,
+      "rikken": 7946.865
+    },
+    {
+      "cityName": "神崎町",
+      "kokumin": 242.294,
+      "rikken": 712.705
+    },
+    {
+      "cityName": "多古町",
+      "kokumin": 546.645,
+      "rikken": 1609.354
+    },
+    {
+      "cityName": "東庄町",
+      "kokumin": 451.361,
+      "rikken": 1303.638
+    },
+    {
+      "cityName": "茂原市",
+      "kokumin": 3109.105,
+      "rikken": 6866.894
+    },
+    {
+      "cityName": "東金市",
+      "kokumin": 2128.068,
+      "rikken": 3945.931
+    },
+    {
+      "cityName": "勝浦市",
+      "kokumin": 444.19,
+      "rikken": 1166.809
+    },
+    {
+      "cityName": "山武市",
+      "kokumin": 1492.364,
+      "rikken": 3236.635
+    },
+    {
+      "cityName": "いすみ市",
+      "kokumin": 1127.458,
+      "rikken": 2783.541
+    },
+    {
+      "cityName": "大網白里市",
+      "kokumin": 2143.794,
+      "rikken": 3956.205
+    },
+    {
+      "cityName": "九十九里町",
+      "kokumin": 446.933,
+      "rikken": 927.066
+    },
+    {
+      "cityName": "芝山町",
+      "kokumin": 246.344,
+      "rikken": 513.655
+    },
+    {
+      "cityName": "横芝光町",
+      "kokumin": 704.025,
+      "rikken": 1711.974
+    },
+    {
+      "cityName": "一宮町",
+      "kokumin": 516.424,
+      "rikken": 1078.575
+    },
+    {
+      "cityName": "睦沢町",
+      "kokumin": 240.344,
+      "rikken": 562.655
+    },
+    {
+      "cityName": "長生村",
+      "kokumin": 512.059,
+      "rikken": 987.94
+    },
+    {
+      "cityName": "白子町",
+      "kokumin": 372.292,
+      "rikken": 765.707
+    },
+    {
+      "cityName": "長柄町",
+      "kokumin": 213.941,
+      "rikken": 510.058
+    },
+    {
+      "cityName": "長南町",
+      "kokumin": 237.353,
+      "rikken": 631.646
+    },
+    {
+      "cityName": "大多喜町",
+      "kokumin": 245.088,
+      "rikken": 626.911
+    },
+    {
+      "cityName": "御宿町",
+      "kokumin": 263.121,
+      "rikken": 669.878
+    },
+    {
+      "cityName": "館山市",
+      "kokumin": 1439.398,
+      "rikken": 4225.601
+    },
+    {
+      "cityName": "木更津市",
+      "kokumin": 5622.803,
+      "rikken": 10947.196
+    },
+    {
+      "cityName": "鴨川市",
+      "kokumin": 1032.723,
+      "rikken": 2638.276
+    },
+    {
+      "cityName": "君津市",
+      "kokumin": 3154.782,
+      "rikken": 7346.217
+    },
+    {
+      "cityName": "富津市",
+      "kokumin": 1315.285,
+      "rikken": 2971.714
+    },
+    {
+      "cityName": "袖ケ浦市",
+      "kokumin": 3436.523,
+      "rikken": 5819.476
+    },
+    {
+      "cityName": "南房総市",
+      "kokumin": 1107.627,
+      "rikken": 3538.372
+    },
+    {
+      "cityName": "鋸南町",
+      "kokumin": 231.597,
+      "rikken": 741.402
+    },
+    {
+      "cityName": "我孫子市",
+      "kokumin": 7169.286,
+      "rikken": 16733.713
+    },
+    {
+      "cityName": "鎌ケ谷市",
+      "kokumin": 5305.049,
+      "rikken": 13769.95
+    },
+    {
+      "cityName": "印西市",
+      "kokumin": 6019.992,
+      "rikken": 12871.007
+    },
+    {
+      "cityName": "白井市",
+      "kokumin": 3144.862,
+      "rikken": 8365.137
+    },
+    {
+      "cityName": "富里市",
+      "kokumin": 1944.711,
+      "rikken": 4348.288
+    },
+    {
+      "cityName": "酒々井町",
+      "kokumin": 868.287,
+      "rikken": 2484.712
+    },
+    {
+      "cityName": "栄町",
+      "kokumin": 826.475,
+      "rikken": 2701.524
+    },
+    {
+      "cityName": "習志野市",
+      "kokumin": 11872.584,
+      "rikken": 25408.415
+    }
   ]
 }

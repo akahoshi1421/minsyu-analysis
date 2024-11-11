@@ -9,3 +9,4 @@
 茨城県: https://www.pref.ibaraki.jp/somu/shichoson/senkyo/documents/ah_kaihyo_k_11_.pdf
 栃木県: https://www.tochigi-senkyo.jp/syugi/file/BH_KAIHYO.html
 群馬県: https://www.pref.gunma.jp/uploaded/attachment/641828.pdf
+千葉県: https://www.pref.chiba.lg.jp/senkan/50shuinsen/documents/ko0400.xlsx
