@@ -2987,5 +2987,322 @@
       "kokumin": 11872.584,
       "rikken": 25408.415
     }
+  ],
+  "埼玉県": [
+    {
+      "cityName": "さいたま市",
+      "kokumin": 79538.335,
+      "rikken": 158041.655
+    },
+    {
+      "cityName": "川越市",
+      "kokumin": 16197.964,
+      "rikken": 33222.035
+    },
+    {
+      "cityName": "熊谷市",
+      "kokumin": 8514.75,
+      "rikken": 23600.249
+    },
+    {
+      "cityName": "川口市",
+      "kokumin": 28767.695,
+      "rikken": 41753.303
+    },
+    {
+      "cityName": "行田市",
+      "kokumin": 3081.966,
+      "rikken": 8140.033
+    },
+    {
+      "cityName": "秩父市",
+      "kokumin": 2049.857,
+      "rikken": 5194.142
+    },
+    {
+      "cityName": "所沢市",
+      "kokumin": 19125.449,
+      "rikken": 36860.55
+    },
+    {
+      "cityName": "飯能市",
+      "kokumin": 3279.935,
+      "rikken": 8401.064
+    },
+    {
+      "cityName": "加須市",
+      "kokumin": 4074.201,
+      "rikken": 9242.798
+    },
+    {
+      "cityName": "本庄市",
+      "kokumin": 3284.567,
+      "rikken": 6554.432
+    },
+    {
+      "cityName": "東松山市",
+      "kokumin": 3922.209,
+      "rikken": 10866.79
+    },
+    {
+      "cityName": "春日部市",
+      "kokumin": 9661.364,
+      "rikken": 22179.635
+    },
+    {
+      "cityName": "狭山市",
+      "kokumin": 6521.058,
+      "rikken": 16765.941
+    },
+    {
+      "cityName": "羽生市",
+      "kokumin": 2073.698,
+      "rikken": 5018.301
+    },
+    {
+      "cityName": "鴻巣市",
+      "kokumin": 5569.966,
+      "rikken": 13726.033
+    },
+    {
+      "cityName": "深谷市",
+      "kokumin": 5468.317,
+      "rikken": 12446.682
+    },
+    {
+      "cityName": "上尾市",
+      "kokumin": 11731.901,
+      "rikken": 22950.098
+    },
+    {
+      "cityName": "草加市",
+      "kokumin": 17271.562,
+      "rikken": 16894.437
+    },
+    {
+      "cityName": "越谷市",
+      "kokumin": 16536.14,
+      "rikken": 33607.859
+    },
+    {
+      "cityName": "蕨市",
+      "kokumin": 3936.177,
+      "rikken": 6411.822
+    },
+    {
+      "cityName": "戸田市",
+      "kokumin": 8184.119,
+      "rikken": 10739.88
+    },
+    {
+      "cityName": "入間市",
+      "kokumin": 6027.214,
+      "rikken": 15577.785
+    },
+    {
+      "cityName": "朝霞市",
+      "kokumin": 11318.807,
+      "rikken": 10803.192
+    },
+    {
+      "cityName": "志木市",
+      "kokumin": 5218.295,
+      "rikken": 6337.704
+    },
+    {
+      "cityName": "和光市",
+      "kokumin": 7652.721,
+      "rikken": 6108.278
+    },
+    {
+      "cityName": "新座市",
+      "kokumin": 10579.667,
+      "rikken": 11332.332
+    },
+    {
+      "cityName": "桶川市",
+      "kokumin": 3627.485,
+      "rikken": 8270.514
+    },
+    {
+      "cityName": "久喜市",
+      "kokumin": 10301.574,
+      "rikken": 12895.425
+    },
+    {
+      "cityName": "北本市",
+      "kokumin": 3202.871,
+      "rikken": 8229.128
+    },
+    {
+      "cityName": "八潮市",
+      "kokumin": 7526.392,
+      "rikken": 4111.607
+    },
+    {
+      "cityName": "富士見市",
+      "kokumin": 5819.986,
+      "rikken": 9507.013
+    },
+    {
+      "cityName": "三郷市",
+      "kokumin": 13525.603,
+      "rikken": 7531.396
+    },
+    {
+      "cityName": "蓮田市",
+      "kokumin": 4135.311,
+      "rikken": 5642.688
+    },
+    {
+      "cityName": "坂戸市",
+      "kokumin": 4311.223,
+      "rikken": 9959.776
+    },
+    {
+      "cityName": "幸手市",
+      "kokumin": 2777.029,
+      "rikken": 3733.97
+    },
+    {
+      "cityName": "鶴ヶ島市",
+      "kokumin": 3382.273,
+      "rikken": 7753.726
+    },
+    {
+      "cityName": "日高市",
+      "kokumin": 2134.623,
+      "rikken": 6225.376
+    },
+    {
+      "cityName": "吉川市",
+      "kokumin": 3363.843,
+      "rikken": 6057.156
+    },
+    {
+      "cityName": "ふじみ野市",
+      "kokumin": 5849.336,
+      "rikken": 11076.663
+    },
+    {
+      "cityName": "白岡市",
+      "kokumin": 4074.209,
+      "rikken": 4721.79
+    },
+    {
+      "cityName": "伊奈町",
+      "kokumin": 2667.115,
+      "rikken": 3574.884
+    },
+    {
+      "cityName": "三芳町",
+      "kokumin": 1775.599,
+      "rikken": 3666.4
+    },
+    {
+      "cityName": "毛呂山町",
+      "kokumin": 1140.203,
+      "rikken": 3171.796
+    },
+    {
+      "cityName": "越生町",
+      "kokumin": 385.032,
+      "rikken": 1270.967
+    },
+    {
+      "cityName": "滑川町",
+      "kokumin": 940.837,
+      "rikken": 2013.162
+    },
+    {
+      "cityName": "嵐山町",
+      "kokumin": 751.97,
+      "rikken": 1919.029
+    },
+    {
+      "cityName": "小川町",
+      "kokumin": 1193.443,
+      "rikken": 3718.556
+    },
+    {
+      "cityName": "川島町",
+      "kokumin": 677.697,
+      "rikken": 2014.302
+    },
+    {
+      "cityName": "吉見町",
+      "kokumin": 642.882,
+      "rikken": 2082.117
+    },
+    {
+      "cityName": "鳩山町",
+      "kokumin": 551.284,
+      "rikken": 2019.715
+    },
+    {
+      "cityName": "ときがわ町",
+      "kokumin": 371.676,
+      "rikken": 1180.323
+    },
+    {
+      "cityName": "横瀬町",
+      "kokumin": 285.118,
+      "rikken": 737.881
+    },
+    {
+      "cityName": "皆野町",
+      "kokumin": 274.406,
+      "rikken": 878.593
+    },
+    {
+      "cityName": "長瀞町",
+      "kokumin": 262.017,
+      "rikken": 709.982
+    },
+    {
+      "cityName": "小鹿野町",
+      "kokumin": 306.352,
+      "rikken": 860.647
+    },
+    {
+      "cityName": "東秩父村",
+      "kokumin": 76.141,
+      "rikken": 293.858
+    },
+    {
+      "cityName": "美里町",
+      "kokumin": 370.091,
+      "rikken": 823.908
+    },
+    {
+      "cityName": "神川町",
+      "kokumin": 446.125,
+      "rikken": 940.874
+    },
+    {
+      "cityName": "上里町",
+      "kokumin": 1126.066,
+      "rikken": 2610.933
+    },
+    {
+      "cityName": "寄居町",
+      "kokumin": 1199.185,
+      "rikken": 2779.814
+    },
+    {
+      "cityName": "宮代町",
+      "kokumin": 2283.133,
+      "rikken": 2930.866
+    },
+    {
+      "cityName": "杉戸町",
+      "kokumin": 2722.019,
+      "rikken": 3400.98
+    },
+    {
+      "cityName": "松伏町",
+      "kokumin": 949.795,
+      "rikken": 2140.204
+    }
   ]
 }
