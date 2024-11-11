@@ -17,3 +17,4 @@
 静岡県: https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/066/732/syuuhi-kai-kaku.zip 
 長野県: https://www.pref.nagano.lg.jp/senkan/shu2024/documents/09kaihirkekka.pdf
 愛知県: https://www.pref.aichi.jp/senkyo/sokuho/data/L4059999.xlsx
+岐阜県: https://www.pref.gifu.lg.jp/uploaded/attachment/420803.XLSX

@@ -4756,5 +4756,217 @@
       "kokumin": 2760.347,
       "rikken": 3375.652
     }
+  ],
+  "岐阜県": [
+    {
+      "cityName": "岐阜市",
+      "kokumin": 19112.97,
+      "rikken": 31132.029
+    },
+    {
+      "cityName": "大垣市",
+      "kokumin": 7906.01,
+      "rikken": 11508.989
+    },
+    {
+      "cityName": "高山市",
+      "kokumin": 3514.315,
+      "rikken": 10301.684
+    },
+    {
+      "cityName": "多治見市",
+      "kokumin": 5103.852,
+      "rikken": 13527.147
+    },
+    {
+      "cityName": "関市",
+      "kokumin": 4624.907,
+      "rikken": 6655.092
+    },
+    {
+      "cityName": "中津川市",
+      "kokumin": 3021.481,
+      "rikken": 8461.518
+    },
+    {
+      "cityName": "美濃市",
+      "kokumin": 967.29,
+      "rikken": 1822.709
+    },
+    {
+      "cityName": "瑞浪市",
+      "kokumin": 1575.043,
+      "rikken": 4160.956
+    },
+    {
+      "cityName": "羽島市",
+      "kokumin": 3800.263,
+      "rikken": 4654.736
+    },
+    {
+      "cityName": "恵那市",
+      "kokumin": 1868.235,
+      "rikken": 5438.764
+    },
+    {
+      "cityName": "美濃加茂市",
+      "kokumin": 2480.936,
+      "rikken": 6583.063
+    },
+    {
+      "cityName": "土岐市",
+      "kokumin": 2395.926,
+      "rikken": 6221.073
+    },
+    {
+      "cityName": "各務原市",
+      "kokumin": 9924.65,
+      "rikken": 11430.349
+    },
+    {
+      "cityName": "可児市",
+      "kokumin": 4442.28,
+      "rikken": 12377.719
+    },
+    {
+      "cityName": "山県市",
+      "kokumin": 1267.522,
+      "rikken": 1922.477
+    },
+    {
+      "cityName": "瑞穂市",
+      "kokumin": 3369.176,
+      "rikken": 3604.823
+    },
+    {
+      "cityName": "飛騨市",
+      "kokumin": 788.723,
+      "rikken": 3204.276
+    },
+    {
+      "cityName": "本巣市",
+      "kokumin": 1752.615,
+      "rikken": 2524.384
+    },
+    {
+      "cityName": "郡上市",
+      "kokumin": 1509.565,
+      "rikken": 5157.435
+    },
+    {
+      "cityName": "下呂市",
+      "kokumin": 1028.372,
+      "rikken": 4495.627
+    },
+    {
+      "cityName": "海津市",
+      "kokumin": 1430.731,
+      "rikken": 2729.268
+    },
+    {
+      "cityName": "岐南町",
+      "kokumin": 1776.315,
+      "rikken": 1608.684
+    },
+    {
+      "cityName": "笠松町",
+      "kokumin": 1299.451,
+      "rikken": 1764.548
+    },
+    {
+      "cityName": "養老町",
+      "kokumin": 951.477,
+      "rikken": 2020.522
+    },
+    {
+      "cityName": "垂井町",
+      "kokumin": 1207.844,
+      "rikken": 2186.155
+    },
+    {
+      "cityName": "関ケ原町",
+      "kokumin": 273.084,
+      "rikken": 635.915
+    },
+    {
+      "cityName": "神戸町",
+      "kokumin": 876.836,
+      "rikken": 1631.163
+    },
+    {
+      "cityName": "輪之内町",
+      "kokumin": 390.83,
+      "rikken": 636.169
+    },
+    {
+      "cityName": "安八町",
+      "kokumin": 631.324,
+      "rikken": 1031.675
+    },
+    {
+      "cityName": "揖斐川町",
+      "kokumin": 766.914,
+      "rikken": 1688.085
+    },
+    {
+      "cityName": "大野町",
+      "kokumin": 849.284,
+      "rikken": 1695.715
+    },
+    {
+      "cityName": "池田町",
+      "kokumin": 998.592,
+      "rikken": 1971.407
+    },
+    {
+      "cityName": "北方町",
+      "kokumin": 1039.641,
+      "rikken": 1320.358
+    },
+    {
+      "cityName": "坂祝町",
+      "kokumin": 368.989,
+      "rikken": 940.01
+    },
+    {
+      "cityName": "富加町",
+      "kokumin": 251.979,
+      "rikken": 730.02
+    },
+    {
+      "cityName": "川辺町",
+      "kokumin": 435.286,
+      "rikken": 1520.713
+    },
+    {
+      "cityName": "七宗町",
+      "kokumin": 103.997,
+      "rikken": 581.002
+    },
+    {
+      "cityName": "八百津町",
+      "kokumin": 385.865,
+      "rikken": 1664.134
+    },
+    {
+      "cityName": "白川町",
+      "kokumin": 250.884,
+      "rikken": 1119.115
+    },
+    {
+      "cityName": "東白川村",
+      "kokumin": 86.435,
+      "rikken": 297.564
+    },
+    {
+      "cityName": "御嵩町",
+      "kokumin": 715.806,
+      "rikken": 2275.193
+    },
+    {
+      "cityName": "白川村",
+      "kokumin": 66.909,
+      "rikken": 163.09
+    }
   ]
 }
