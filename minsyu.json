@@ -3616,5 +3616,172 @@
       "kokumin": 165.003,
       "rikken": 187.996
     }
+  ],
+  "神奈川県": [
+    {
+      "cityName": "横浜市",
+      "kokumin": 231965.341,
+      "rikken": 396988.641
+    },
+    {
+      "cityName": "川崎市",
+      "kokumin": 116512.478,
+      "rikken": 143874.515
+    },
+    {
+      "cityName": "相模原市",
+      "kokumin": 36136.403,
+      "rikken": 75934.594
+    },
+    {
+      "cityName": "横須賀市",
+      "kokumin": 14431.904,
+      "rikken": 24612.095
+    },
+    {
+      "cityName": "平塚市",
+      "kokumin": 11738.899,
+      "rikken": 20034.1
+    },
+    {
+      "cityName": "鎌倉市",
+      "kokumin": 10025.392,
+      "rikken": 24324.607
+    },
+    {
+      "cityName": "藤沢市",
+      "kokumin": 23872.841,
+      "rikken": 47055.158
+    },
+    {
+      "cityName": "小田原市",
+      "kokumin": 8074.873,
+      "rikken": 20375.126
+    },
+    {
+      "cityName": "茅ヶ崎市",
+      "kokumin": 12752.823,
+      "rikken": 23687.176
+    },
+    {
+      "cityName": "逗子市",
+      "kokumin": 2848.486,
+      "rikken": 7732.513
+    },
+    {
+      "cityName": "三浦市",
+      "kokumin": 1350.031,
+      "rikken": 2401.968
+    },
+    {
+      "cityName": "秦野市",
+      "kokumin": 7059.236,
+      "rikken": 16483.763
+    },
+    {
+      "cityName": "厚木市",
+      "kokumin": 10501.861,
+      "rikken": 22950.138
+    },
+    {
+      "cityName": "大和市",
+      "kokumin": 13064.737,
+      "rikken": 24134.262
+    },
+    {
+      "cityName": "伊勢原市",
+      "kokumin": 5009.357,
+      "rikken": 10958.642
+    },
+    {
+      "cityName": "海老名市",
+      "kokumin": 8090.316,
+      "rikken": 16318.683
+    },
+    {
+      "cityName": "座間市",
+      "kokumin": 5909.743,
+      "rikken": 12326.256
+    },
+    {
+      "cityName": "南足柄市",
+      "kokumin": 1682.752,
+      "rikken": 4499.247
+    },
+    {
+      "cityName": "綾瀬市",
+      "kokumin": 3095.624,
+      "rikken": 7098.375
+    },
+    {
+      "cityName": "三浦郡葉山町",
+      "kokumin": 1299.805,
+      "rikken": 3939.194
+    },
+    {
+      "cityName": "高座郡寒川町",
+      "kokumin": 1767.383,
+      "rikken": 4474.616
+    },
+    {
+      "cityName": "大磯町",
+      "kokumin": 1446.873,
+      "rikken": 3317.126
+    },
+    {
+      "cityName": "二宮町",
+      "kokumin": 1275.27,
+      "rikken": 3585.729
+    },
+    {
+      "cityName": "中井町",
+      "kokumin": 349.04,
+      "rikken": 968.959
+    },
+    {
+      "cityName": "大井町",
+      "kokumin": 642.655,
+      "rikken": 1696.344
+    },
+    {
+      "cityName": "松田町",
+      "kokumin": 441.626,
+      "rikken": 1299.373
+    },
+    {
+      "cityName": "山北町",
+      "kokumin": 240.751,
+      "rikken": 1315.248
+    },
+    {
+      "cityName": "開成町",
+      "kokumin": 1006.694,
+      "rikken": 2234.305
+    },
+    {
+      "cityName": "箱根町",
+      "kokumin": 279.651,
+      "rikken": 768.348
+    },
+    {
+      "cityName": "真鶴町",
+      "kokumin": 270.164,
+      "rikken": 767.835
+    },
+    {
+      "cityName": "湯河原町",
+      "kokumin": 829.795,
+      "rikken": 2342.204
+    },
+    {
+      "cityName": "愛川町",
+      "kokumin": 1094.383,
+      "rikken": 3068.616
+    },
+    {
+      "cityName": "清川村",
+      "kokumin": 73.958,
+      "rikken": 281.041
+    }
   ]
 }
