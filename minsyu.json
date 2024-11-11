@@ -3920,5 +3920,182 @@
       "kokumin": 15.098,
       "rikken": 54.901
     }
+  ],
+  "静岡県": [
+    {
+      "cityName": "静岡市",
+      "kokumin": 38626.112,
+      "rikken": 62728.885
+    },
+    {
+      "cityName": "浜松市",
+      "kokumin": 40468.491,
+      "rikken": 90777.505
+    },
+    {
+      "cityName": "富士市",
+      "kokumin": 12778.161,
+      "rikken": 24402.837
+    },
+    {
+      "cityName": "島田市",
+      "kokumin": 4989.194,
+      "rikken": 10808.805
+    },
+    {
+      "cityName": "焼津市",
+      "kokumin": 5977.039,
+      "rikken": 13633.96
+    },
+    {
+      "cityName": "藤枝市",
+      "kokumin": 6654.867,
+      "rikken": 17485.132
+    },
+    {
+      "cityName": "牧之原市",
+      "kokumin": 1890.696,
+      "rikken": 4093.303
+    },
+    {
+      "cityName": "吉田町",
+      "kokumin": 1322.546,
+      "rikken": 2646.453
+    },
+    {
+      "cityName": "川根本町",
+      "kokumin": 182.243,
+      "rikken": 644.756
+    },
+    {
+      "cityName": "磐田市",
+      "kokumin": 8661.081,
+      "rikken": 20778.918
+    },
+    {
+      "cityName": "掛川市",
+      "kokumin": 6900.453,
+      "rikken": 13267.546
+    },
+    {
+      "cityName": "袋井市",
+      "kokumin": 4354.014,
+      "rikken": 9818.985
+    },
+    {
+      "cityName": "御前崎市",
+      "kokumin": 1681.859,
+      "rikken": 2545.14
+    },
+    {
+      "cityName": "菊川市",
+      "kokumin": 3723.601,
+      "rikken": 4823.398
+    },
+    {
+      "cityName": "森町",
+      "kokumin": 827.514,
+      "rikken": 2211.485
+    },
+    {
+      "cityName": "富士宮市",
+      "kokumin": 9085.072,
+      "rikken": 10119.927
+    },
+    {
+      "cityName": "三島市",
+      "kokumin": 5456.22,
+      "rikken": 12179.779
+    },
+    {
+      "cityName": "御殿場市",
+      "kokumin": 3468.415,
+      "rikken": 6632.584
+    },
+    {
+      "cityName": "裾野市",
+      "kokumin": 2605.722,
+      "rikken": 5343.277
+    },
+    {
+      "cityName": "函南町",
+      "kokumin": 1432.682,
+      "rikken": 3719.317
+    },
+    {
+      "cityName": "小山町",
+      "kokumin": 653.321,
+      "rikken": 1491.678
+    },
+    {
+      "cityName": "沼津市",
+      "kokumin": 8061.969,
+      "rikken": 21318.03
+    },
+    {
+      "cityName": "熱海市",
+      "kokumin": 987.207,
+      "rikken": 3485.792
+    },
+    {
+      "cityName": "伊東市",
+      "kokumin": 1876.866,
+      "rikken": 6844.133
+    },
+    {
+      "cityName": "下田市",
+      "kokumin": 603.741,
+      "rikken": 2181.258
+    },
+    {
+      "cityName": "伊豆市",
+      "kokumin": 931.227,
+      "rikken": 3562.772
+    },
+    {
+      "cityName": "伊豆の国市",
+      "kokumin": 1749.207,
+      "rikken": 5268.792
+    },
+    {
+      "cityName": "東伊豆町",
+      "kokumin": 336.081,
+      "rikken": 1095.918
+    },
+    {
+      "cityName": "河津町",
+      "kokumin": 233.509,
+      "rikken": 791.49
+    },
+    {
+      "cityName": "南伊豆町",
+      "kokumin": 213.593,
+      "rikken": 956.406
+    },
+    {
+      "cityName": "松崎町",
+      "kokumin": 160.637,
+      "rikken": 840.362
+    },
+    {
+      "cityName": "西伊豆町",
+      "kokumin": 209.12,
+      "rikken": 811.879
+    },
+    {
+      "cityName": "清水町",
+      "kokumin": 1486.545,
+      "rikken": 3457.454
+    },
+    {
+      "cityName": "長泉町",
+      "kokumin": 2902.251,
+      "rikken": 5548.748
+    },
+    {
+      "cityName": "湖西市",
+      "kokumin": 2917.383,
+      "rikken": 6953.616
+    }
   ]
 }

@@ -14,3 +14,4 @@
 東京都: https://www.senkyo.metro.tokyo.lg.jp/uploads/r610shu_hkai_seitoubetsu.xlsx 
 神奈川県: https://www.pref.kanagawa.jp/documents/110780/r6hirei.xlsx 
 山梨県: http://yamanashi-senkyo.jp/houdou/download.php?sn=4&ft=e&tm=10 
+静岡県: https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/066/732/syuuhi-kai-kaku.zip 
