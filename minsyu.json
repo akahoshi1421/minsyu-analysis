@@ -3304,5 +3304,317 @@
       "kokumin": 949.795,
       "rikken": 2140.204
     }
+  ],
+  "東京都": [
+    {
+      "cityName": "千代田区",
+      "kokumin": 5846.141,
+      "rikken": 6170.858
+    },
+    {
+      "cityName": "中央区",
+      "kokumin": 16607.366,
+      "rikken": 13403.633
+    },
+    {
+      "cityName": "港区",
+      "kokumin": 15994.554,
+      "rikken": 22485.445
+    },
+    {
+      "cityName": "新宿区",
+      "kokumin": 21920.715,
+      "rikken": 28576.284
+    },
+    {
+      "cityName": "文京区",
+      "kokumin": 20054.418,
+      "rikken": 25577.581
+    },
+    {
+      "cityName": "台東区",
+      "kokumin": 18372.621,
+      "rikken": 15341.378
+    },
+    {
+      "cityName": "墨田区",
+      "kokumin": 24894.709,
+      "rikken": 19117.29
+    },
+    {
+      "cityName": "江東区",
+      "kokumin": 36621.776,
+      "rikken": 47805.223
+    },
+    {
+      "cityName": "品川区",
+      "kokumin": 34250.254,
+      "rikken": 36545.745
+    },
+    {
+      "cityName": "目黒区",
+      "kokumin": 20053.772,
+      "rikken": 26514.227
+    },
+    {
+      "cityName": "大田区",
+      "kokumin": 55446.801,
+      "rikken": 54517.197
+    },
+    {
+      "cityName": "世田谷区",
+      "kokumin": 63526.247,
+      "rikken": 106388.751
+    },
+    {
+      "cityName": "渋谷区",
+      "kokumin": 14995.318,
+      "rikken": 24710.681
+    },
+    {
+      "cityName": "中野区",
+      "kokumin": 24422.588,
+      "rikken": 35266.411
+    },
+    {
+      "cityName": "杉並区",
+      "kokumin": 43790.445,
+      "rikken": 67940.553
+    },
+    {
+      "cityName": "豊島区",
+      "kokumin": 20830.413,
+      "rikken": 24897.586
+    },
+    {
+      "cityName": "北区",
+      "kokumin": 25774.775,
+      "rikken": 25622.224
+    },
+    {
+      "cityName": "荒川区",
+      "kokumin": 14657.302,
+      "rikken": 16377.697
+    },
+    {
+      "cityName": "板橋区",
+      "kokumin": 37547.263,
+      "rikken": 50020.735
+    },
+    {
+      "cityName": "練馬区",
+      "kokumin": 57117.32,
+      "rikken": 75841.678
+    },
+    {
+      "cityName": "足立区",
+      "kokumin": 43319.579,
+      "rikken": 43904.419
+    },
+    {
+      "cityName": "葛飾区",
+      "kokumin": 30109.095,
+      "rikken": 30625.904
+    },
+    {
+      "cityName": "江戸川区",
+      "kokumin": 41138.581,
+      "rikken": 48660.417
+    },
+    {
+      "cityName": "八王子市",
+      "kokumin": 32226.2,
+      "rikken": 58112.798
+    },
+    {
+      "cityName": "立川市",
+      "kokumin": 10799.826,
+      "rikken": 17032.173
+    },
+    {
+      "cityName": "武蔵野市",
+      "kokumin": 11191.146,
+      "rikken": 19517.853
+    },
+    {
+      "cityName": "三鷹市",
+      "kokumin": 13435.495,
+      "rikken": 23029.504
+    },
+    {
+      "cityName": "青梅市",
+      "kokumin": 5384.736,
+      "rikken": 10393.263
+    },
+    {
+      "cityName": "府中市",
+      "kokumin": 16838.411,
+      "rikken": 29505.588
+    },
+    {
+      "cityName": "昭島市",
+      "kokumin": 5997.371,
+      "rikken": 8737.628
+    },
+    {
+      "cityName": "調布市",
+      "kokumin": 17805.974,
+      "rikken": 26844.025
+    },
+    {
+      "cityName": "町田市",
+      "kokumin": 24523.382,
+      "rikken": 47825.617
+    },
+    {
+      "cityName": "小金井市",
+      "kokumin": 9137.321,
+      "rikken": 15583.678
+    },
+    {
+      "cityName": "小平市",
+      "kokumin": 12041.124,
+      "rikken": 22020.875
+    },
+    {
+      "cityName": "日野市",
+      "kokumin": 11862.845,
+      "rikken": 19954.154
+    },
+    {
+      "cityName": "東村山市",
+      "kokumin": 9581.648,
+      "rikken": 13567.351
+    },
+    {
+      "cityName": "国分寺市",
+      "kokumin": 8965.416,
+      "rikken": 16493.583
+    },
+    {
+      "cityName": "国立市",
+      "kokumin": 4915.428,
+      "rikken": 9160.571
+    },
+    {
+      "cityName": "福生市",
+      "kokumin": 2547.324,
+      "rikken": 3935.675
+    },
+    {
+      "cityName": "狛江市",
+      "kokumin": 5383.371,
+      "rikken": 9125.628
+    },
+    {
+      "cityName": "東大和市",
+      "kokumin": 4737.243,
+      "rikken": 7435.756
+    },
+    {
+      "cityName": "清瀬市",
+      "kokumin": 4672.306,
+      "rikken": 6767.693
+    },
+    {
+      "cityName": "東久留米市",
+      "kokumin": 7146.727,
+      "rikken": 10684.272
+    },
+    {
+      "cityName": "武蔵村山市",
+      "kokumin": 3133.187,
+      "rikken": 4537.812
+    },
+    {
+      "cityName": "多摩市",
+      "kokumin": 8334.702,
+      "rikken": 19687.297
+    },
+    {
+      "cityName": "稲城市",
+      "kokumin": 6039.781,
+      "rikken": 10652.218
+    },
+    {
+      "cityName": "羽村市",
+      "kokumin": 2499.422,
+      "rikken": 4501.577
+    },
+    {
+      "cityName": "あきる野市",
+      "kokumin": 3064.731,
+      "rikken": 6392.268
+    },
+    {
+      "cityName": "西東京市",
+      "kokumin": 13004.197,
+      "rikken": 24750.802
+    },
+    {
+      "cityName": "瑞穂町",
+      "kokumin": 1098.052,
+      "rikken": 2036.947
+    },
+    {
+      "cityName": "日の出町",
+      "kokumin": 567.498,
+      "rikken": 1286.501
+    },
+    {
+      "cityName": "檜原村",
+      "kokumin": 57.015,
+      "rikken": 184.984
+    },
+    {
+      "cityName": "奥多摩町",
+      "kokumin": 145.498,
+      "rikken": 374.501
+    },
+    {
+      "cityName": "大島町",
+      "kokumin": 292.889,
+      "rikken": 450.11
+    },
+    {
+      "cityName": "利島村",
+      "kokumin": 25.405,
+      "rikken": 21.594
+    },
+    {
+      "cityName": "新島村",
+      "kokumin": 92.904,
+      "rikken": 153.095
+    },
+    {
+      "cityName": "神津島村",
+      "kokumin": 62.255,
+      "rikken": 117.744
+    },
+    {
+      "cityName": "三宅村",
+      "kokumin": 105.786,
+      "rikken": 179.213
+    },
+    {
+      "cityName": "御蔵島村",
+      "kokumin": 22.243,
+      "rikken": 34.756
+    },
+    {
+      "cityName": "八丈町",
+      "kokumin": 253.958,
+      "rikken": 561.041
+    },
+    {
+      "cityName": "青ヶ島村",
+      "kokumin": 11.045,
+      "rikken": 15.954
+    },
+    {
+      "cityName": "小笠原村",
+      "kokumin": 165.003,
+      "rikken": 187.996
+    }
   ]
 }
