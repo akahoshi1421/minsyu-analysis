@@ -4484,5 +4484,277 @@
       "kokumin": 13.056,
       "rikken": 113.943
     }
+  ],
+  "愛知県": [
+    {
+      "cityName": "名古屋市",
+      "kokumin": 148624.553,
+      "rikken": 196715.431
+    },
+    {
+      "cityName": "清須市",
+      "kokumin": 3854.221,
+      "rikken": 6323.778
+    },
+    {
+      "cityName": "瀬戸市",
+      "kokumin": 7431.6,
+      "rikken": 10893.4
+    },
+    {
+      "cityName": "春日井市",
+      "kokumin": 18077.106,
+      "rikken": 26149.893
+    },
+    {
+      "cityName": "大府市",
+      "kokumin": 9741.4,
+      "rikken": 7610.599
+    },
+    {
+      "cityName": "尾張旭市",
+      "kokumin": 7446.004,
+      "rikken": 7589.995
+    },
+    {
+      "cityName": "豊明市",
+      "kokumin": 6318.774,
+      "rikken": 5880.225
+    },
+    {
+      "cityName": "日進市",
+      "kokumin": 10051.081,
+      "rikken": 8185.918
+    },
+    {
+      "cityName": "長久手市",
+      "kokumin": 6377.734,
+      "rikken": 5180.265
+    },
+    {
+      "cityName": "東郷町",
+      "kokumin": 4387.088,
+      "rikken": 3619.911
+    },
+    {
+      "cityName": "半田市",
+      "kokumin": 6616.343,
+      "rikken": 11503.656
+    },
+    {
+      "cityName": "常滑市",
+      "kokumin": 3156.697,
+      "rikken": 5647.302
+    },
+    {
+      "cityName": "東海市",
+      "kokumin": 6722.176,
+      "rikken": 11457.823
+    },
+    {
+      "cityName": "知多市",
+      "kokumin": 4686.526,
+      "rikken": 10068.473
+    },
+    {
+      "cityName": "阿久比町",
+      "kokumin": 1637.536,
+      "rikken": 3244.463
+    },
+    {
+      "cityName": "東浦町",
+      "kokumin": 3137.022,
+      "rikken": 5831.977
+    },
+    {
+      "cityName": "南知多町",
+      "kokumin": 596.648,
+      "rikken": 1208.351
+    },
+    {
+      "cityName": "美浜町",
+      "kokumin": 975.618,
+      "rikken": 2229.381
+    },
+    {
+      "cityName": "武豊町",
+      "kokumin": 2335.087,
+      "rikken": 4311.912
+    },
+    {
+      "cityName": "津島市",
+      "kokumin": 2747.045,
+      "rikken": 6203.954
+    },
+    {
+      "cityName": "稲沢市",
+      "kokumin": 7327.656,
+      "rikken": 14639.343
+    },
+    {
+      "cityName": "愛西市",
+      "kokumin": 2704.692,
+      "rikken": 6897.307
+    },
+    {
+      "cityName": "弥富市",
+      "kokumin": 2147.458,
+      "rikken": 4355.541
+    },
+    {
+      "cityName": "あま市",
+      "kokumin": 4253.775,
+      "rikken": 8449.224
+    },
+    {
+      "cityName": "大治町",
+      "kokumin": 1395.326,
+      "rikken": 2523.673
+    },
+    {
+      "cityName": "蟹江町",
+      "kokumin": 1932.888,
+      "rikken": 3788.111
+    },
+    {
+      "cityName": "飛島村",
+      "kokumin": 199.941,
+      "rikken": 462.058
+    },
+    {
+      "cityName": "一宮市",
+      "kokumin": 17588.149,
+      "rikken": 33408.85
+    },
+    {
+      "cityName": "岩倉市",
+      "kokumin": 2554.749,
+      "rikken": 4179.25
+    },
+    {
+      "cityName": "豊田市",
+      "kokumin": 52466.33,
+      "rikken": 31348.669
+    },
+    {
+      "cityName": "みよし市",
+      "kokumin": 7804.431,
+      "rikken": 4744.568
+    },
+    {
+      "cityName": "岡崎市",
+      "kokumin": 22431.109,
+      "rikken": 45002.89
+    },
+    {
+      "cityName": "西尾市",
+      "kokumin": 9289.471,
+      "rikken": 18416.528
+    },
+    {
+      "cityName": "碧南市",
+      "kokumin": 4089.954,
+      "rikken": 6212.045
+    },
+    {
+      "cityName": "刈谷市",
+      "kokumin": 11956.952,
+      "rikken": 16680.047
+    },
+    {
+      "cityName": "安城市",
+      "kokumin": 13267.308,
+      "rikken": 21309.691
+    },
+    {
+      "cityName": "知立市",
+      "kokumin": 5200.175,
+      "rikken": 7570.824
+    },
+    {
+      "cityName": "高浜市",
+      "kokumin": 3150.617,
+      "rikken": 4525.382
+    },
+    {
+      "cityName": "豊川市",
+      "kokumin": 9690.631,
+      "rikken": 20773.368
+    },
+    {
+      "cityName": "蒲郡市",
+      "kokumin": 3684.592,
+      "rikken": 7956.407
+    },
+    {
+      "cityName": "新城市",
+      "kokumin": 1983.829,
+      "rikken": 5499.17
+    },
+    {
+      "cityName": "幸田町",
+      "kokumin": 2768.441,
+      "rikken": 4535.558
+    },
+    {
+      "cityName": "設楽町",
+      "kokumin": 155.41,
+      "rikken": 601.589
+    },
+    {
+      "cityName": "東栄町",
+      "kokumin": 97.877,
+      "rikken": 338.122
+    },
+    {
+      "cityName": "豊根村",
+      "kokumin": 43.313,
+      "rikken": 90.686
+    },
+    {
+      "cityName": "豊橋市",
+      "kokumin": 17987.633,
+      "rikken": 30539.366
+    },
+    {
+      "cityName": "田原市",
+      "kokumin": 2859.72,
+      "rikken": 5875.279
+    },
+    {
+      "cityName": "犬山市",
+      "kokumin": 5332.067,
+      "rikken": 7477.932
+    },
+    {
+      "cityName": "江南市",
+      "kokumin": 7288.772,
+      "rikken": 9098.227
+    },
+    {
+      "cityName": "小牧市",
+      "kokumin": 10059.551,
+      "rikken": 12449.448
+    },
+    {
+      "cityName": "北名古屋市",
+      "kokumin": 5879.531,
+      "rikken": 8261.468
+    },
+    {
+      "cityName": "豊山町",
+      "kokumin": 957.182,
+      "rikken": 1241.817
+    },
+    {
+      "cityName": "大口町",
+      "kokumin": 1962.616,
+      "rikken": 2103.383
+    },
+    {
+      "cityName": "扶桑町",
+      "kokumin": 2760.347,
+      "rikken": 3375.652
+    }
   ]
 }
