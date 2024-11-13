@@ -18,3 +18,4 @@
 長野県: https://www.pref.nagano.lg.jp/senkan/shu2024/documents/09kaihirkekka.pdf
 愛知県: https://www.pref.aichi.jp/senkyo/sokuho/data/L4059999.xlsx
 岐阜県: https://www.pref.gifu.lg.jp/uploaded/attachment/420803.XLSX
+富山県: https://www.pref.toyama.jp/sections/0500/r6syu/%E3%82%A2%E3%83%83%E3%83%97%E7%94%A8/toyama_hi_kaihyo_kekka.xls

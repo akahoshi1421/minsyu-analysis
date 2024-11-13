@@ -4968,5 +4968,82 @@
       "kokumin": 66.909,
       "rikken": 163.09
     }
+  ],
+  "富山県": [
+    {
+      "cityName": "富山市",
+      "kokumin": 21680.476,
+      "rikken": 34052.522
+    },
+    {
+      "cityName": "魚津市",
+      "kokumin": 1799.052,
+      "rikken": 3412.947
+    },
+    {
+      "cityName": "滑川市",
+      "kokumin": 1782.183,
+      "rikken": 2667.816
+    },
+    {
+      "cityName": "黒部市",
+      "kokumin": 1939.407,
+      "rikken": 3459.592
+    },
+    {
+      "cityName": "舟橋村",
+      "kokumin": 211.818,
+      "rikken": 259.181
+    },
+    {
+      "cityName": "上市町",
+      "kokumin": 929.398,
+      "rikken": 1741.601
+    },
+    {
+      "cityName": "立山町",
+      "kokumin": 1059.391,
+      "rikken": 2043.608
+    },
+    {
+      "cityName": "入善町",
+      "kokumin": 1032.743,
+      "rikken": 1938.256
+    },
+    {
+      "cityName": "朝日町",
+      "kokumin": 493.273,
+      "rikken": 1059.726
+    },
+    {
+      "cityName": "高岡市",
+      "kokumin": 10494.623,
+      "rikken": 11090.376
+    },
+    {
+      "cityName": "氷見市",
+      "kokumin": 2201.758,
+      "rikken": 2930.241
+    },
+    {
+      "cityName": "砺波市",
+      "kokumin": 3291.216,
+      "rikken": 3245.783
+    },
+    {
+      "cityName": "小矢部市",
+      "kokumin": 1609.934,
+      "rikken": 1749.065
+    },
+    {
+      "cityName": "南砺市",
+      "kokumin": 2964.691,
+      "rikken": 3487.308
+    },
+    {
+      "cityName": "射水市",
+      "kokumin": 5884.14,
+      "rikken": 6267.859
+    }
   ]
 }
