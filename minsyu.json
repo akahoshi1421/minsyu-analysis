@@ -5045,5 +5045,102 @@
       "kokumin": 5884.14,
       "rikken": 6267.859
     }
+  ],
+  "石川県": [
+    {
+      "cityName": "金沢市",
+      "kokumin": 24806.919,
+      "rikken": 39540.08
+    },
+    {
+      "cityName": "七尾市",
+      "kokumin": 1771.102,
+      "rikken": 6632.897
+    },
+    {
+      "cityName": "小松市",
+      "kokumin": 5269.768,
+      "rikken": 5269.768
+    },
+    {
+      "cityName": "輪島市",
+      "kokumin": 540.73,
+      "rikken": 2456.269
+    },
+    {
+      "cityName": "珠洲市",
+      "kokumin": 278.472,
+      "rikken": 1637.527
+    },
+    {
+      "cityName": "加賀市",
+      "kokumin": 2672.639,
+      "rikken": 5619.36
+    },
+    {
+      "cityName": "羽咋市",
+      "kokumin": 780.698,
+      "rikken": 2955.301
+    },
+    {
+      "cityName": "かほく市",
+      "kokumin": 1900.519,
+      "rikken": 4287.48
+    },
+    {
+      "cityName": "白山市",
+      "kokumin": 5930.75,
+      "rikken": 10635.249
+    },
+    {
+      "cityName": "能美市",
+      "kokumin": 2735.075,
+      "rikken": 4335.924
+    },
+    {
+      "cityName": "野々市市",
+      "kokumin": 3265.156,
+      "rikken": 4254.843
+    },
+    {
+      "cityName": "川北町",
+      "kokumin": 372.154,
+      "rikken": 600.845
+    },
+    {
+      "cityName": "津幡町",
+      "kokumin": 1988.214,
+      "rikken": 4156.785
+    },
+    {
+      "cityName": "内灘町",
+      "kokumin": 1238.408,
+      "rikken": 2774.591
+    },
+    {
+      "cityName": "志賀町",
+      "kokumin": 560.143,
+      "rikken": 2566.856
+    },
+    {
+      "cityName": "宝達志水町",
+      "kokumin": 474.805,
+      "rikken": 1818.194
+    },
+    {
+      "cityName": "中能登町",
+      "kokumin": 587.008,
+      "rikken": 2923.991
+    },
+    {
+      "cityName": "穴水町",
+      "kokumin": 145.31,
+      "rikken": 1140.689
+    },
+    {
+      "cityName": "能登町",
+      "kokumin": 423.431,
+      "rikken": 2101.568
+    }
   ]
 }
