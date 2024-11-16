@@ -5605,5 +5605,202 @@
       "kokumin": 550.857,
       "rikken": 1758.142
     }
+  ],
+  "奈良県": [
+    {
+      "cityName": "大和高田市",
+      "kokumin": 2290.896,
+      "rikken": 3862.103
+    },
+    {
+      "cityName": "大和郡山市",
+      "kokumin": 3384.089,
+      "rikken": 6534.91
+    },
+    {
+      "cityName": "天理市",
+      "kokumin": 2419.217,
+      "rikken": 4038.782
+    },
+    {
+      "cityName": "橿原市",
+      "kokumin": 4705.353,
+      "rikken": 8807.646
+    },
+    {
+      "cityName": "桜井市",
+      "kokumin": 1756.155,
+      "rikken": 3621.844
+    },
+    {
+      "cityName": "五條市",
+      "kokumin": 836.379,
+      "rikken": 2186.62
+    },
+    {
+      "cityName": "御所市",
+      "kokumin": 641.489,
+      "rikken": 1464.51
+    },
+    {
+      "cityName": "生駒市",
+      "kokumin": 5415.982,
+      "rikken": 11404.017
+    },
+    {
+      "cityName": "香芝市",
+      "kokumin": 3331.242,
+      "rikken": 6064.757
+    },
+    {
+      "cityName": "葛城市",
+      "kokumin": 1679.61,
+      "rikken": 2620.389
+    },
+    {
+      "cityName": "宇陀市",
+      "kokumin": 854.262,
+      "rikken": 2439.737
+    },
+    {
+      "cityName": "山添村",
+      "kokumin": 85.894,
+      "rikken": 274.105
+    },
+    {
+      "cityName": "平群町",
+      "kokumin": 710.017,
+      "rikken": 1587.982
+    },
+    {
+      "cityName": "三郷町",
+      "kokumin": 869.291,
+      "rikken": 1752.708
+    },
+    {
+      "cityName": "斑鳩町",
+      "kokumin": 1182.012,
+      "rikken": 2150.987
+    },
+    {
+      "cityName": "安堵町",
+      "kokumin": 224.666,
+      "rikken": 449.333
+    },
+    {
+      "cityName": "川西町",
+      "kokumin": 312.233,
+      "rikken": 647.766
+    },
+    {
+      "cityName": "三宅町",
+      "kokumin": 247.69,
+      "rikken": 546.309
+    },
+    {
+      "cityName": "田原本町",
+      "kokumin": 1124.77,
+      "rikken": 2402.229
+    },
+    {
+      "cityName": "曽爾村",
+      "kokumin": 43.434,
+      "rikken": 118.565
+    },
+    {
+      "cityName": "御杖村",
+      "kokumin": 41.684,
+      "rikken": 90.315
+    },
+    {
+      "cityName": "高取町",
+      "kokumin": 190.817,
+      "rikken": 570.182
+    },
+    {
+      "cityName": "明日香村",
+      "kokumin": 197.372,
+      "rikken": 442.627
+    },
+    {
+      "cityName": "上牧町",
+      "kokumin": 757.461,
+      "rikken": 1580.538
+    },
+    {
+      "cityName": "王寺町",
+      "kokumin": 1074.212,
+      "rikken": 1873.787
+    },
+    {
+      "cityName": "広陵町",
+      "kokumin": 1335.324,
+      "rikken": 2538.675
+    },
+    {
+      "cityName": "河合町",
+      "kokumin": 610.48,
+      "rikken": 1657.519
+    },
+    {
+      "cityName": "吉野町",
+      "kokumin": 207.396,
+      "rikken": 531.603
+    },
+    {
+      "cityName": "大淀町",
+      "kokumin": 461.006,
+      "rikken": 1127.993
+    },
+    {
+      "cityName": "下市町",
+      "kokumin": 154.842,
+      "rikken": 395.157
+    },
+    {
+      "cityName": "黒滝村",
+      "kokumin": 19.478,
+      "rikken": 36.521
+    },
+    {
+      "cityName": "天川村",
+      "kokumin": 29.0,
+      "rikken": 87.0
+    },
+    {
+      "cityName": "野迫川村",
+      "kokumin": 12.0,
+      "rikken": 32.0
+    },
+    {
+      "cityName": "十津川村",
+      "kokumin": 110.696,
+      "rikken": 262.303
+    },
+    {
+      "cityName": "下北山村",
+      "kokumin": 42.065,
+      "rikken": 73.934
+    },
+    {
+      "cityName": "上北山村",
+      "kokumin": 17.432,
+      "rikken": 25.567
+    },
+    {
+      "cityName": "川上村",
+      "kokumin": 57.732,
+      "rikken": 98.267
+    },
+    {
+      "cityName": "東吉野村",
+      "kokumin": 34.892,
+      "rikken": 127.107
+    },
+    {
+      "cityName": "奈良市",
+      "kokumin": 15620.368,
+      "rikken": 35175.63
+    }
   ]
 }

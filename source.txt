@@ -24,3 +24,4 @@
 滋賀県: https://www.pref.shiga.lg.jp/file/attachment/5498969.pdf
 三重県: https://www.pref.mie.lg.jp/common/content/001164036.xls
 京都府: https://www.pref.kyoto.jp/senkyo/documents/50hireikaihyou.pdf
+奈良県: https://www.pref.nara.jp/secure/241742/hireisityosonbetu.pdf
