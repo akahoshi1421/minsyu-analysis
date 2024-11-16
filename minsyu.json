@@ -5229,5 +5229,102 @@
       "kokumin": 605.47,
       "rikken": 1581.529
     }
+  ],
+  "滋賀県": [
+    {
+      "cityName": "大津市",
+      "kokumin": 16549.466,
+      "rikken": 24200.533
+    },
+    {
+      "cityName": "彦根市",
+      "kokumin": 4603.105,
+      "rikken": 9249.894
+    },
+    {
+      "cityName": "長浜市",
+      "kokumin": 3645.173,
+      "rikken": 9405.826
+    },
+    {
+      "cityName": "近江八幡市",
+      "kokumin": 3278.302,
+      "rikken": 6201.697
+    },
+    {
+      "cityName": "草津市",
+      "kokumin": 7517.861,
+      "rikken": 9007.138
+    },
+    {
+      "cityName": "守山市",
+      "kokumin": 3993.324,
+      "rikken": 5706.675
+    },
+    {
+      "cityName": "栗東市",
+      "kokumin": 3272.937,
+      "rikken": 3906.062
+    },
+    {
+      "cityName": "甲賀市",
+      "kokumin": 3110.866,
+      "rikken": 5869.133
+    },
+    {
+      "cityName": "野洲市",
+      "kokumin": 2315.897,
+      "rikken": 3486.102
+    },
+    {
+      "cityName": "湖南市",
+      "rikken": 2201.407,
+      "kokumin": 3487.592
+    },
+    {
+      "cityName": "高島市",
+      "kokumin": 1578.131,
+      "rikken": 3208.868
+    },
+    {
+      "cityName": "東近江市",
+      "kokumin": 3887.707,
+      "rikken": 7882.292
+    },
+    {
+      "cityName": "米原市",
+      "kokumin": 1395.956,
+      "rikken": 4757.043
+    },
+    {
+      "cityName": "日野町",
+      "kokumin": 630.136,
+      "rikken": 1548.863
+    },
+    {
+      "cityName": "竜王町",
+      "kokumin": 436.369,
+      "rikken": 894.63
+    },
+    {
+      "cityName": "愛荘町",
+      "kokumin": 644.022,
+      "rikken": 1423.977
+    },
+    {
+      "cityName": "豊郷町",
+      "kokumin": 148.898,
+      "rikken": 448.101
+    },
+    {
+      "cityName": "甲良町",
+      "kokumin": 149.497,
+      "rikken": 507.502
+    },
+    {
+      "cityName": "多賀町",
+      "kokumin": 240.434,
+      "rikken": 682.565
+    }
   ]
 }
