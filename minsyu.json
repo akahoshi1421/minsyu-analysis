@@ -5802,5 +5802,222 @@
       "kokumin": 15620.368,
       "rikken": 35175.63
     }
+  ],
+  "大阪府": [
+    {
+      "cityName": "大阪市",
+      "kokumin": 98786.041,
+      "rikken": 98563.935
+    },
+    {
+      "cityName": "堺市",
+      "kokumin": 24879.109,
+      "rikken": 38659.884
+    },
+    {
+      "cityName": "岸和田市",
+      "kokumin": 4306.215,
+      "rikken": 5815.784
+    },
+    {
+      "cityName": "豊中市",
+      "kokumin": 20852.1,
+      "rikken": 21006.899
+    },
+    {
+      "cityName": "池田市",
+      "kokumin": 6240.43,
+      "rikken": 6162.569
+    },
+    {
+      "cityName": "吹田市",
+      "kokumin": 18422.734,
+      "rikken": 21007.265
+    },
+    {
+      "cityName": "泉大津市",
+      "kokumin": 2070.341,
+      "rikken": 2573.658
+    },
+    {
+      "cityName": "高槻市",
+      "kokumin": 13264.03,
+      "rikken": 27834.969
+    },
+    {
+      "cityName": "貝塚市",
+      "kokumin": 2187.484,
+      "rikken": 2833.515
+    },
+    {
+      "cityName": "守口市",
+      "kokumin": 4374.472,
+      "rikken": 4954.527
+    },
+    {
+      "cityName": "枚方市",
+      "kokumin": 13614.229,
+      "rikken": 20665.77
+    },
+    {
+      "cityName": "茨木市",
+      "kokumin": 11708.733,
+      "rikken": 14635.266
+    },
+    {
+      "cityName": "八尾市",
+      "kokumin": 6976.978,
+      "rikken": 8877.021
+    },
+    {
+      "cityName": "泉佐野市",
+      "kokumin": 2947.552,
+      "rikken": 3167.447
+    },
+    {
+      "cityName": "富田林市",
+      "kokumin": 2890.118,
+      "rikken": 5930.881
+    },
+    {
+      "cityName": "寝屋川市",
+      "kokumin": 6340.395,
+      "rikken": 8631.604
+    },
+    {
+      "cityName": "河内長野市",
+      "kokumin": 2609.341,
+      "rikken": 5522.658
+    },
+    {
+      "cityName": "松原市",
+      "kokumin": 2745.479,
+      "rikken": 4644.52
+    },
+    {
+      "cityName": "大東市",
+      "kokumin": 3239.804,
+      "rikken": 3685.195
+    },
+    {
+      "cityName": "和泉市",
+      "kokumin": 4855.402,
+      "rikken": 6945.597
+    },
+    {
+      "cityName": "箕面市",
+      "kokumin": 5712.211,
+      "rikken": 7692.788
+    },
+    {
+      "cityName": "柏原市",
+      "kokumin": 1792.147,
+      "rikken": 2494.852
+    },
+    {
+      "cityName": "羽曳野市",
+      "kokumin": 2567.7,
+      "rikken": 3985.299
+    },
+    {
+      "cityName": "門真市",
+      "kokumin": 2572.915,
+      "rikken": 3441.084
+    },
+    {
+      "cityName": "摂津市",
+      "kokumin": 2936.965,
+      "rikken": 3023.034
+    },
+    {
+      "cityName": "高石市",
+      "kokumin": 1764.708,
+      "rikken": 2232.291
+    },
+    {
+      "cityName": "藤井寺市",
+      "kokumin": 1816.901,
+      "rikken": 2406.098
+    },
+    {
+      "cityName": "東大阪市",
+      "kokumin": 12643.075,
+      "rikken": 13563.924
+    },
+    {
+      "cityName": "泉南市",
+      "kokumin": 1359.95,
+      "rikken": 1946.049
+    },
+    {
+      "cityName": "四條畷市",
+      "kokumin": 1747.8,
+      "rikken": 2104.199
+    },
+    {
+      "cityName": "交野市",
+      "kokumin": 2488.829,
+      "rikken": 4376.17
+    },
+    {
+      "cityName": "大阪狭山市",
+      "kokumin": 1753.89,
+      "rikken": 3084.109
+    },
+    {
+      "cityName": "阪南市",
+      "kokumin": 1383.942,
+      "rikken": 2360.057
+    },
+    {
+      "cityName": "島本町",
+      "kokumin": 1558.488,
+      "rikken": 2984.511
+    },
+    {
+      "cityName": "豊能町",
+      "kokumin": 550.451,
+      "rikken": 1647.548
+    },
+    {
+      "cityName": "能勢町",
+      "kokumin": 226.204,
+      "rikken": 435.795
+    },
+    {
+      "cityName": "忠岡町",
+      "kokumin": 361.665,
+      "rikken": 481.334
+    },
+    {
+      "cityName": "熊取町",
+      "kokumin": 1191.68,
+      "rikken": 1752.32
+    },
+    {
+      "cityName": "田尻町",
+      "kokumin": 259.701,
+      "rikken": 262.298
+    },
+    {
+      "cityName": "岬町",
+      "kokumin": 371.393,
+      "rikken": 691.606
+    },
+    {
+      "cityName": "太子町",
+      "kokumin": 262.043,
+      "rikken": 619.956
+    },
+    {
+      "cityName": "河南町",
+      "kokumin": 307.145,
+      "rikken": 596.854
+    },
+    {
+      "cityName": "千早赤阪村",
+      "kokumin": 103.408,
+      "rikken": 290.591
+    }
   ]
 }
