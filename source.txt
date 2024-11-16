@@ -22,3 +22,4 @@
 石川県: https://www.pref.ishikawa.lg.jp/senkan/50shugi/documents/50hkklast.pdf
 福井県: https://www.pref.fukui.lg.jp/doc/senkan/50syuugisen/50toukaihyousokuhou_d/fil/3_3_3.pdf
 滋賀県: https://www.pref.shiga.lg.jp/file/attachment/5498969.pdf
+三重県: https://www.pref.mie.lg.jp/common/content/001164036.xls

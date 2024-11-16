@@ -5326,5 +5326,152 @@
       "kokumin": 240.434,
       "rikken": 682.565
     }
+  ],
+  "三重県": [
+    {
+      "cityName": "津市",
+      "kokumin": 11624.526,
+      "rikken": 31196.473
+    },
+    {
+      "cityName": "四日市市",
+      "kokumin": 15839.495,
+      "rikken": 37956.503
+    },
+    {
+      "cityName": "伊勢市",
+      "kokumin": 5173.442,
+      "rikken": 15186.557
+    },
+    {
+      "cityName": "松阪市",
+      "kokumin": 6242.394,
+      "rikken": 16740.605
+    },
+    {
+      "cityName": "桑名市",
+      "kokumin": 7398.813,
+      "rikken": 19510.186
+    },
+    {
+      "cityName": "鈴鹿市",
+      "kokumin": 9716.372,
+      "rikken": 23765.627
+    },
+    {
+      "cityName": "名張市",
+      "kokumin": 2941.606,
+      "rikken": 7168.393
+    },
+    {
+      "cityName": "尾鷲市",
+      "kokumin": 461.571,
+      "rikken": 1692.428
+    },
+    {
+      "cityName": "亀山市",
+      "kokumin": 2241.466,
+      "rikken": 5986.533
+    },
+    {
+      "cityName": "鳥羽市",
+      "kokumin": 531.417,
+      "rikken": 1678.582
+    },
+    {
+      "cityName": "熊野市",
+      "kokumin": 470.2,
+      "rikken": 2120.799
+    },
+    {
+      "cityName": "いなべ市",
+      "kokumin": 1954.448,
+      "rikken": 6412.551
+    },
+    {
+      "cityName": "志摩市",
+      "kokumin": 1471.653,
+      "rikken": 4590.346
+    },
+    {
+      "cityName": "伊賀市",
+      "kokumin": 3103.405,
+      "rikken": 8822.594
+    },
+    {
+      "cityName": "木曽岬町",
+      "kokumin": 229.56,
+      "rikken": 718.439
+    },
+    {
+      "cityName": "東員町",
+      "kokumin": 1325.467,
+      "rikken": 3890.532
+    },
+    {
+      "cityName": "菰野町",
+      "kokumin": 2069.048,
+      "rikken": 5405.951
+    },
+    {
+      "cityName": "朝日町",
+      "kokumin": 688.097,
+      "rikken": 1678.902
+    },
+    {
+      "cityName": "川越町",
+      "kokumin": 878.349,
+      "rikken": 1816.65
+    },
+    {
+      "cityName": "多気町",
+      "kokumin": 576.817,
+      "rikken": 1814.182
+    },
+    {
+      "cityName": "明和町",
+      "kokumin": 918.936,
+      "rikken": 2711.063
+    },
+    {
+      "cityName": "大台町",
+      "kokumin": 307.603,
+      "rikken": 1346.396
+    },
+    {
+      "cityName": "玉城町",
+      "kokumin": 669.446,
+      "rikken": 1952.553
+    },
+    {
+      "cityName": "度会町",
+      "kokumin": 305.856,
+      "rikken": 952.143
+    },
+    {
+      "cityName": "大紀町",
+      "kokumin": 311.482,
+      "rikken": 949.517
+    },
+    {
+      "cityName": "南伊勢町",
+      "kokumin": 283.622,
+      "rikken": 1059.377
+    },
+    {
+      "cityName": "紀北町",
+      "kokumin": 398.146,
+      "rikken": 1615.853
+    },
+    {
+      "cityName": "御浜町",
+      "kokumin": 259.567,
+      "rikken": 1013.432
+    },
+    {
+      "cityName": "紀宝町",
+      "kokumin": 302.663,
+      "rikken": 1084.336
+    }
   ]
 }
