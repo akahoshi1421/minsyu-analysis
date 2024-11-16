@@ -20,3 +20,4 @@
 岐阜県: https://www.pref.gifu.lg.jp/uploaded/attachment/420803.XLSX
 富山県: https://www.pref.toyama.jp/sections/0500/r6syu/%E3%82%A2%E3%83%83%E3%83%97%E7%94%A8/toyama_hi_kaihyo_kekka.xls
 石川県: https://www.pref.ishikawa.lg.jp/senkan/50shugi/documents/50hkklast.pdf
+福井県: https://www.pref.fukui.lg.jp/doc/senkan/50syuugisen/50toukaihyousokuhou_d/fil/3_3_3.pdf

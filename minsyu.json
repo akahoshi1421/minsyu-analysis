@@ -5142,5 +5142,92 @@
       "kokumin": 423.431,
       "rikken": 2101.568
     }
+  ],
+  "福井県": [
+    {
+      "cityName": "福井市",
+      "kokumin": 11373.182,
+      "rikken": 24970.817
+    },
+    {
+      "cityName": "大野市",
+      "kokumin": 1177.325,
+      "rikken": 2820.674
+    },
+    {
+      "cityName": "勝山市",
+      "kokumin": 836.882,
+      "rikken": 2118.117
+    },
+    {
+      "cityName": "あわら市",
+      "kokumin": 1129.358,
+      "rikken": 2790.641
+    },
+    {
+      "cityName": "坂井市",
+      "kokumin": 3981.007,
+      "rikken": 8680.992
+    },
+    {
+      "cityName": "永平寺町",
+      "kokumin": 801.122,
+      "rikken": 1998.877
+    },
+    {
+      "cityName": "敦賀市",
+      "kokumin": 3429.691,
+      "rikken": 6364.308
+    },
+    {
+      "cityName": "小浜市",
+      "kokumin": 1158.262,
+      "rikken": 3189.737
+    },
+    {
+      "cityName": "鯖江市",
+      "kokumin": 3155.647,
+      "rikken": 6776.352
+    },
+    {
+      "cityName": "越前市",
+      "kokumin": 3662.628,
+      "rikken": 9050.371
+    },
+    {
+      "cityName": "池田町",
+      "kokumin": 63.741,
+      "rikken": 240.258
+    },
+    {
+      "cityName": "南越前町",
+      "kokumin": 393.49,
+      "rikken": 1228.509
+    },
+    {
+      "cityName": "越前町",
+      "kokumin": 842.765,
+      "rikken": 2231.234
+    },
+    {
+      "cityName": "美浜町",
+      "kokumin": 487.475,
+      "rikken": 963.524
+    },
+    {
+      "cityName": "高浜町",
+      "kokumin": 512.092,
+      "rikken": 866.907
+    },
+    {
+      "cityName": "おおい町",
+      "kokumin": 459.792,
+      "rikken": 784.207
+    },
+    {
+      "cityName": "若狭町",
+      "kokumin": 605.47,
+      "rikken": 1581.529
+    }
   ]
 }
