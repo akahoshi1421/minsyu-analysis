@@ -6019,5 +6019,157 @@
       "kokumin": 103.408,
       "rikken": 290.591
     }
+  ],
+  "和歌山県": [
+    {
+      "cityName": "和歌山市",
+      "kokumin": 11039.187,
+      "rikken": 19503.812
+    },
+    {
+      "cityName": "海南市",
+      "kokumin": 1336.815,
+      "rikken": 3340.184
+    },
+    {
+      "cityName": "橋本市",
+      "kokumin": 1614.989,
+      "rikken": 4671.01
+    },
+    {
+      "cityName": "有田市",
+      "kokumin": 652.727,
+      "rikken": 1501.272
+    },
+    {
+      "cityName": "御坊市",
+      "kokumin": 568.647,
+      "rikken": 1015.352
+    },
+    {
+      "cityName": "田辺市",
+      "kokumin": 1847.561,
+      "rikken": 4549.438
+    },
+    {
+      "cityName": "新宮市",
+      "kokumin": 641.438,
+      "rikken": 2080.561
+    },
+    {
+      "cityName": "紀の川市",
+      "kokumin": 1395.352,
+      "rikken": 3554.647
+    },
+    {
+      "cityName": "岩出市",
+      "kokumin": 1432.386,
+      "rikken": 2710.613
+    },
+    {
+      "cityName": "紀美野町",
+      "kokumin": 178.923,
+      "rikken": 569.076
+    },
+    {
+      "cityName": "かつらぎ町",
+      "kokumin": 356.704,
+      "rikken": 1196.295
+    },
+    {
+      "cityName": "九度山町",
+      "kokumin": 76.427,
+      "rikken": 340.572
+    },
+    {
+      "cityName": "高野町",
+      "kokumin": 58.986,
+      "rikken": 197.013
+    },
+    {
+      "cityName": "湯浅町",
+      "kokumin": 267.957,
+      "rikken": 611.042
+    },
+    {
+      "cityName": "広川町",
+      "kokumin": 176.888,
+      "rikken": 420.111
+    },
+    {
+      "cityName": "有田川町",
+      "kokumin": 722.635,
+      "rikken": 1520.364
+    },
+    {
+      "cityName": "美浜町",
+      "kokumin": 179.6,
+      "rikken": 442.399
+    },
+    {
+      "cityName": "日高町",
+      "kokumin": 226.205,
+      "rikken": 479.794
+    },
+    {
+      "cityName": "由良町",
+      "kokumin": 128.866,
+      "rikken": 313.133
+    },
+    {
+      "cityName": "印南町",
+      "kokumin": 197.148,
+      "rikken": 480.851
+    },
+    {
+      "cityName": "みなべ町",
+      "kokumin": 298.808,
+      "rikken": 729.191
+    },
+    {
+      "cityName": "日高川町",
+      "kokumin": 200.036,
+      "rikken": 592.963
+    },
+    {
+      "cityName": "白浜町",
+      "kokumin": 469.996,
+      "rikken": 1216.003
+    },
+    {
+      "cityName": "上富田町",
+      "kokumin": 353.077,
+      "rikken": 919.922
+    },
+    {
+      "cityName": "すさみ町",
+      "kokumin": 74.801,
+      "rikken": 223.198
+    },
+    {
+      "cityName": "那智勝浦町",
+      "kokumin": 298.487,
+      "rikken": 1043.512
+    },
+    {
+      "cityName": "太地町",
+      "kokumin": 56.59,
+      "rikken": 192.409
+    },
+    {
+      "cityName": "古座川町",
+      "kokumin": 58.546,
+      "rikken": 226.453
+    },
+    {
+      "cityName": "北山村",
+      "kokumin": 5.961,
+      "rikken": 25.038
+    },
+    {
+      "cityName": "串本町",
+      "kokumin": 332.003,
+      "rikken": 1059.996
+    }
   ]
 }

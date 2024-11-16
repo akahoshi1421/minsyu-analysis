@@ -26,3 +26,4 @@
 京都府: https://www.pref.kyoto.jp/senkyo/documents/50hireikaihyou.pdf
 奈良県: https://www.pref.nara.jp/secure/241742/hireisityosonbetu.pdf
 大阪府: https://www.pref.osaka.lg.jp/documents/95845/04_kaihirei.xlsx
+和歌山県: https://www.pref.wakayama.lg.jp/prefg/010600/wsenkan/2024shu_d/fil/kaihyo_hirei_xlsx.xlsx
