@@ -5473,5 +5473,137 @@
       "kokumin": 302.663,
       "rikken": 1084.336
     }
+  ],
+  "京都府": [
+    {
+      "cityName": "京都市",
+      "kokumin": 61301.061,
+      "rikken": 95622.928
+    },
+    {
+      "cityName": "福知山市",
+      "kokumin": 2420.765,
+      "rikken": 6449.234
+    },
+    {
+      "cityName": "舞鶴市",
+      "kokumin": 2314.993,
+      "rikken": 5175.006
+    },
+    {
+      "cityName": "綾部市",
+      "kokumin": 995.942,
+      "rikken": 2902.057
+    },
+    {
+      "cityName": "宇治市",
+      "kokumin": 6717.639,
+      "rikken": 16278.36
+    },
+    {
+      "cityName": "宮津市",
+      "kokumin": 539.936,
+      "rikken": 1558.063
+    },
+    {
+      "cityName": "亀岡市",
+      "kokumin": 3319.076,
+      "rikken": 5991.923
+    },
+    {
+      "cityName": "城陽市",
+      "kokumin": 2643.656,
+      "rikken": 7426.343
+    },
+    {
+      "cityName": "向日市",
+      "kokumin": 2535.031,
+      "rikken": 5456.968
+    },
+    {
+      "cityName": "長岡京市",
+      "kokumin": 4505.98,
+      "rikken": 9357.019
+    },
+    {
+      "cityName": "八幡市",
+      "kokumin": 2227.841,
+      "rikken": 5406.158
+    },
+    {
+      "cityName": "京田辺市",
+      "kokumin": 3359.59,
+      "rikken": 6175.409
+    },
+    {
+      "cityName": "京丹後市",
+      "kokumin": 1377.953,
+      "rikken": 4174.046
+    },
+    {
+      "cityName": "南丹市",
+      "kokumin": 1112.71,
+      "rikken": 2330.29
+    },
+    {
+      "cityName": "木津川市",
+      "kokumin": 3573.661,
+      "rikken": 7428.338
+    },
+    {
+      "cityName": "大山崎町",
+      "kokumin": 782.223,
+      "rikken": 1712.776
+    },
+    {
+      "cityName": "久御山町",
+      "kokumin": 427.56,
+      "rikken": 1180.439
+    },
+    {
+      "cityName": "井手町",
+      "kokumin": 190.681,
+      "rikken": 648.318
+    },
+    {
+      "cityName": "宇治田原町",
+      "kokumin": 210.214,
+      "rikken": 854.785
+    },
+    {
+      "cityName": "笠置町",
+      "kokumin": 32.586,
+      "rikken": 156.413
+    },
+    {
+      "cityName": "和束町",
+      "kokumin": 103.05,
+      "rikken": 343.949
+    },
+    {
+      "cityName": "精華町",
+      "kokumin": 1775.873,
+      "rikken": 3956.126
+    },
+    {
+      "cityName": "南山城村",
+      "kokumin": 79.296,
+      "rikken": 248.703
+    },
+    {
+      "cityName": "京丹波町",
+      "kokumin": 385.0,
+      "rikken": 980.0
+    },
+    {
+      "cityName": "伊根町",
+      "kokumin": 36.765,
+      "rikken": 155.234
+    },
+    {
+      "cityName": "与謝野町",
+      "kokumin": 550.857,
+      "rikken": 1758.142
+    }
   ]
 }
