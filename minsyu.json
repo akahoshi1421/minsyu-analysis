@@ -6632,5 +6632,102 @@
       "kokumin": 235.102,
       "rikken": 1001.897
     }
+  ],
+  "鳥取県": [
+    {
+      "cityName": "鳥取市",
+      "kokumin": 5416.539,
+      "rikken": 9279.46
+    },
+    {
+      "cityName": "米子市",
+      "kokumin": 5180.122,
+      "rikken": 14031.877
+    },
+    {
+      "cityName": "倉吉市",
+      "kokumin": 1385.38,
+      "rikken": 2789.619
+    },
+    {
+      "cityName": "境港市",
+      "kokumin": 988.031,
+      "rikken": 2581.968
+    },
+    {
+      "cityName": "岩美町",
+      "kokumin": 276.538,
+      "rikken": 605.461
+    },
+    {
+      "cityName": "若桜町",
+      "kokumin": 57.117,
+      "rikken": 155.882
+    },
+    {
+      "cityName": "智頭町",
+      "kokumin": 120.986,
+      "rikken": 338.013
+    },
+    {
+      "cityName": "八頭町",
+      "kokumin": 408.292,
+      "rikken": 841.707
+    },
+    {
+      "cityName": "三朝町",
+      "kokumin": 132.432,
+      "rikken": 394.567
+    },
+    {
+      "cityName": "湯梨浜町",
+      "kokumin": 448.414,
+      "rikken": 1171.585
+    },
+    {
+      "cityName": "琴浦町",
+      "kokumin": 450.672,
+      "rikken": 1636.327
+    },
+    {
+      "cityName": "北栄町",
+      "kokumin": 398.132,
+      "rikken": 1369.867
+    },
+    {
+      "cityName": "日吉津村",
+      "kokumin": 155.867,
+      "rikken": 455.132
+    },
+    {
+      "cityName": "大山町",
+      "kokumin": 438.016,
+      "rikken": 1731.983
+    },
+    {
+      "cityName": "南部町",
+      "kokumin": 269.981,
+      "rikken": 1231.018
+    },
+    {
+      "cityName": "伯耆町",
+      "kokumin": 308.341,
+      "rikken": 1249.658
+    },
+    {
+      "cityName": "日南町",
+      "kokumin": 102.192,
+      "rikken": 468.807
+    },
+    {
+      "cityName": "日野町",
+      "kokumin": 43.816,
+      "rikken": 375.183
+    },
+    {
+      "cityName": "江府町",
+      "kokumin": 67.006,
+      "rikken": 279.993
+    }
   ]
 }
