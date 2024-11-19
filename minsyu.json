@@ -6171,5 +6171,212 @@
       "kokumin": 332.003,
       "rikken": 1059.996
     }
+  ],
+  "兵庫県": [
+    {
+      "cityName": "神戸市",
+      "kokumin": 64048.793,
+      "rikken": 118020.198
+    },
+    {
+      "cityName": "姫路市",
+      "kokumin": 16021.647,
+      "rikken": 27212.351
+    },
+    {
+      "cityName": "尼崎市",
+      "kokumin": 15900.307,
+      "rikken": 20991.692
+    },
+    {
+      "cityName": "明石市",
+      "kokumin": 12498.651,
+      "rikken": 27521.348
+    },
+    {
+      "cityName": "西宮市",
+      "kokumin": 21592.663,
+      "rikken": 40327.335
+    },
+    {
+      "cityName": "洲本市",
+      "kokumin": 1181.705,
+      "rikken": 3161.294
+    },
+    {
+      "cityName": "芦屋市",
+      "kokumin": 4153.006,
+      "rikken": 8933.993
+    },
+    {
+      "cityName": "伊丹市",
+      "kokumin": 7314.057,
+      "rikken": 16538.942
+    },
+    {
+      "cityName": "相生市",
+      "kokumin": 812.85,
+      "rikken": 1742.149
+    },
+    {
+      "cityName": "豊岡市",
+      "kokumin": 2072.375,
+      "rikken": 6676.624
+    },
+    {
+      "cityName": "加古川市",
+      "kokumin": 8345.789,
+      "rikken": 19483.21
+    },
+    {
+      "cityName": "たつの市",
+      "kokumin": 2033.174,
+      "rikken": 4514.825
+    },
+    {
+      "cityName": "赤穂市",
+      "kokumin": 1425.241,
+      "rikken": 2721.758
+    },
+    {
+      "cityName": "西脇市",
+      "kokumin": 1030.054,
+      "rikken": 3039.945
+    },
+    {
+      "cityName": "宝塚市",
+      "kokumin": 9055.066,
+      "rikken": 22178.933
+    },
+    {
+      "cityName": "三木市",
+      "kokumin": 1976.966,
+      "rikken": 5776.033
+    },
+    {
+      "cityName": "高砂市",
+      "kokumin": 2517.499,
+      "rikken": 6202.5
+    },
+    {
+      "cityName": "川西市",
+      "kokumin": 5771.395,
+      "rikken": 14089.603
+    },
+    {
+      "cityName": "小野市",
+      "kokumin": 5771.395,
+      "rikken": 14089.603
+    },
+    {
+      "cityName": "三田市",
+      "kokumin": 3953.355,
+      "rikken": 10174.644
+    },
+    {
+      "cityName": "加西市",
+      "kokumin": 1191.418,
+      "rikken": 3405.581
+    },
+    {
+      "cityName": "丹波篠山市",
+      "kokumin": 1097.202,
+      "rikken": 3945.797
+    },
+    {
+      "cityName": "養父市",
+      "kokumin": 514.379,
+      "rikken": 2069.62
+    },
+    {
+      "cityName": "丹波市",
+      "kokumin": 1525.953,
+      "rikken": 5977.046
+    },
+    {
+      "cityName": "南あわじ市",
+      "kokumin": 1140.143,
+      "rikken": 3200.856
+    },
+    {
+      "cityName": "朝来市",
+      "kokumin": 767.081,
+      "rikken": 2807.918
+    },
+    {
+      "cityName": "淡路市",
+      "kokumin": 1046.437,
+      "rikken": 3185.562
+    },
+    {
+      "cityName": "宍粟市",
+      "kokumin": 750.702,
+      "rikken": 2327.297
+    },
+    {
+      "cityName": "加東市",
+      "kokumin": 1135.019,
+      "rikken": 2750.98
+    },
+    {
+      "cityName": "猪名川町",
+      "kokumin": 988.846,
+      "rikken": 2887.153
+    },
+    {
+      "cityName": "多可町",
+      "kokumin": 506.129,
+      "rikken": 1814.87
+    },
+    {
+      "cityName": "稲美町",
+      "kokumin": 833.361,
+      "rikken": 2430.638
+    },
+    {
+      "cityName": "播磨町",
+      "kokumin": 1139.582,
+      "rikken": 2558.417
+    },
+    {
+      "cityName": "神河町",
+      "kokumin": 322.167,
+      "rikken": 910.832
+    },
+    {
+      "cityName": "市川町",
+      "kokumin": 232.669,
+      "rikken": 811.33
+    },
+    {
+      "cityName": "福崎町",
+      "kokumin": 483.073,
+      "rikken": 1222.926
+    },
+    {
+      "cityName": "太子町",
+      "kokumin": 1034.012,
+      "rikken": 2009.987
+    },
+    {
+      "cityName": "上郡町",
+      "kokumin": 348.883,
+      "rikken": 1050.116
+    },
+    {
+      "cityName": "佐用町",
+      "kokumin": 318.263,
+      "rikken": 1088.736
+    },
+    {
+      "cityName": "香美町",
+      "kokumin": 349.163,
+      "rikken": 1237.836
+    },
+    {
+      "cityName": "新温泉町",
+      "kokumin": 266.06,
+      "rikken": 1112.939
+    }
   ]
 }
