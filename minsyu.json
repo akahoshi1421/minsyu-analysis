@@ -7234,5 +7234,177 @@
       "kokumin": 925.801,
       "rikken": 2073.198
     }
+  ],
+  "高知県": [
+    {
+      "cityName": "高知市",
+      "kokumin": 12956.614,
+      "rikken": 23923.384
+    },
+    {
+      "cityName": "室戸市",
+      "kokumin": 251.02,
+      "rikken": 761.979
+    },
+    {
+      "cityName": "安芸市",
+      "kokumin": 463.984,
+      "rikken": 1220.015
+    },
+    {
+      "cityName": "南国市",
+      "kokumin": 1642.423,
+      "rikken": 3471.576
+    },
+    {
+      "cityName": "香南市",
+      "kokumin": 1261.644,
+      "rikken": 2648.355
+    },
+    {
+      "cityName": "香美市",
+      "kokumin": 937.304,
+      "rikken": 2094.695
+    },
+    {
+      "cityName": "東洋町",
+      "kokumin": 40.986,
+      "rikken": 146.013
+    },
+    {
+      "cityName": "奈半利町",
+      "kokumin": 78.36,
+      "rikken": 172.639
+    },
+    {
+      "cityName": "田野町",
+      "kokumin": 77.578,
+      "rikken": 186.421
+    },
+    {
+      "cityName": "安田町",
+      "kokumin": 61.18,
+      "rikken": 159.819
+    },
+    {
+      "cityName": "北川村",
+      "kokumin": 31.168,
+      "rikken": 113.831
+    },
+    {
+      "cityName": "馬路村",
+      "kokumin": 31.494,
+      "rikken": 104.505
+    },
+    {
+      "cityName": "芸西村",
+      "kokumin": 100.212,
+      "rikken": 197.787
+    },
+    {
+      "cityName": "本山町",
+      "kokumin": 102.089,
+      "rikken": 257.91
+    },
+    {
+      "cityName": "大豊町",
+      "kokumin": 77.037,
+      "rikken": 255.962
+    },
+    {
+      "cityName": "土佐町",
+      "kokumin": 101.725,
+      "rikken": 296.274
+    },
+    {
+      "cityName": "大川村",
+      "kokumin": 18.206,
+      "rikken": 25.793
+    },
+    {
+      "cityName": "土佐市",
+      "kokumin": 796.839,
+      "rikken": 1847.16
+    },
+    {
+      "cityName": "須崎市",
+      "kokumin": 550.6,
+      "rikken": 1522.399
+    },
+    {
+      "cityName": "宿毛市",
+      "kokumin": 552.457,
+      "rikken": 1373.542
+    },
+    {
+      "cityName": "土佐清水市",
+      "kokumin": 271.597,
+      "rikken": 1003.402
+    },
+    {
+      "cityName": "四万十市",
+      "kokumin": 1058.197,
+      "rikken": 2315.802
+    },
+    {
+      "cityName": "いの町",
+      "kokumin": 730.647,
+      "rikken": 1892.352
+    },
+    {
+      "cityName": "仁淀川町",
+      "kokumin": 145.23,
+      "rikken": 326.769
+    },
+    {
+      "cityName": "中土佐町",
+      "kokumin": 152.258,
+      "rikken": 447.741
+    },
+    {
+      "cityName": "佐川町",
+      "kokumin": 403.796,
+      "rikken": 909.203
+    },
+    {
+      "cityName": "越知町",
+      "kokumin": 133.072,
+      "rikken": 339.927
+    },
+    {
+      "cityName": "檮原町",
+      "kokumin": 98.057,
+      "rikken": 187.942
+    },
+    {
+      "cityName": "日高村",
+      "kokumin": 143.095,
+      "rikken": 360.904
+    },
+    {
+      "cityName": "津野町",
+      "kokumin": 144.069,
+      "rikken": 445.93
+    },
+    {
+      "cityName": "四万十町",
+      "kokumin": 419.959,
+      "rikken": 1299.04
+    },
+    {
+      "cityName": "大月町",
+      "kokumin": 78.08,
+      "rikken": 348.92
+    },
+    {
+      "cityName": "三原村",
+      "kokumin": 47.755,
+      "rikken": 192.244
+    },
+    {
+      "cityName": "黒潮町",
+      "kokumin": 261.872,
+      "rikken": 824.127
+    }
   ]
 }
