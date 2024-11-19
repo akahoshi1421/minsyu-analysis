@@ -6729,5 +6729,102 @@
       "kokumin": 67.006,
       "rikken": 279.993
     }
+  ],
+  "島根県": [
+    {
+      "cityName": "松江市",
+      "kokumin": 8367.431,
+      "rikken": 20811.568
+    },
+    {
+      "cityName": "浜田市",
+      "kokumin": 1720.782,
+      "rikken": 4936.217
+    },
+    {
+      "cityName": "出雲市",
+      "kokumin": 6687.983,
+      "rikken": 16125.016
+    },
+    {
+      "cityName": "益田市",
+      "kokumin": 1365.432,
+      "rikken": 4357.567
+    },
+    {
+      "cityName": "大田市",
+      "kokumin": 890.879,
+      "rikken": 2978.12
+    },
+    {
+      "cityName": "安来市",
+      "kokumin": 1196.965,
+      "rikken": 4184.034
+    },
+    {
+      "cityName": "江津市",
+      "kokumin": 650.597,
+      "rikken": 2379.402
+    },
+    {
+      "cityName": "雲南市",
+      "kokumin": 1079.452,
+      "rikken": 4833.547
+    },
+    {
+      "cityName": "津和野町",
+      "kokumin": 225.344,
+      "rikken": 1024.655
+    },
+    {
+      "cityName": "古賀町",
+      "kokumin": 170.192,
+      "rikken": 621.807
+    },
+    {
+      "cityName": "奥出雲町",
+      "kokumin": 259.625,
+      "rikken": 1279.374
+    },
+    {
+      "cityName": "海士町",
+      "kokumin": 96.917,
+      "rikken": 254.082
+    },
+    {
+      "cityName": "西ノ島町",
+      "kokumin": 96.755,
+      "rikken": 334.244
+    },
+    {
+      "cityName": "知夫村",
+      "kokumin": 23.367,
+      "rikken": 83.632
+    },
+    {
+      "cityName": "隠岐の島町",
+      "kokumin": 296.801,
+      "rikken": 1343.198
+    },
+    {
+      "cityName": "飯南町",
+      "kokumin": 133.82,
+      "rikken": 598.179
+    },
+    {
+      "cityName": "川本町",
+      "kokumin": 80.47,
+      "rikken": 365.529
+    },
+    {
+      "cityName": "美郷町",
+      "kokumin": 103.71,
+      "rikken": 471.289
+    },
+    {
+      "cityName": "邑南町",
+      "kokumin": 289.733,
+      "rikken": 1001.266
+    }
   ]
 }
