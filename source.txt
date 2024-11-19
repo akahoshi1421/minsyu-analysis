@@ -29,3 +29,4 @@
 和歌山県: https://www.pref.wakayama.lg.jp/prefg/010600/wsenkan/2024shu_d/fil/kaihyo_hirei_xlsx.xlsx
 兵庫県: https://web.pref.hyogo.lg.jp/si01/senkyo/2024senkyo/documents/tk-hirei08_2.pdf
 岡山県: https://www.pref.okayama.jp/uploaded/attachment/378446.xls
+広島県: https://www.pref.hiroshima.lg.jp/uploaded/attachment/597501.pdf

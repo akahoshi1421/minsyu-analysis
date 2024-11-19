@@ -6515,5 +6515,122 @@
       "kokumin": 336.907,
       "rikken": 942.092
     }
+  ],
+  "広島県": [
+    {
+      "cityName": "広島市",
+      "kokumin": 64396.322,
+      "rikken": 84295.67
+    },
+    {
+      "cityName": "呉市",
+      "kokumin": 7587.228,
+      "rikken": 13436.771
+    },
+    {
+      "cityName": "竹原市",
+      "kokumin": 851.337,
+      "rikken": 1712.662
+    },
+    {
+      "cityName": "三原市",
+      "kokumin": 3279.245,
+      "rikken": 8230.754
+    },
+    {
+      "cityName": "尾道市",
+      "kokumin": 5006.875,
+      "rikken": 12321.124
+    },
+    {
+      "cityName": "福山市",
+      "kokumin": 17145.884,
+      "rikken": 34685.115
+    },
+    {
+      "cityName": "府中市",
+      "kokumin": 1234.837,
+      "rikken": 3194.162
+    },
+    {
+      "cityName": "三次市",
+      "kokumin": 1767.967,
+      "rikken": 5961.032
+    },
+    {
+      "cityName": "庄原市",
+      "kokumin": 1156.073,
+      "rikken": 4016.926
+    },
+    {
+      "cityName": "大竹市",
+      "kokumin": 1731.461,
+      "rikken": 1869.538
+    },
+    {
+      "cityName": "東広島市",
+      "kokumin": 8735.467,
+      "rikken": 11789.532
+    },
+    {
+      "cityName": "廿日市市",
+      "kokumin": 7304.777,
+      "rikken": 8730.222
+    },
+    {
+      "cityName": "安芸高田市",
+      "kokumin": 944.789,
+      "rikken": 2431.21
+    },
+    {
+      "cityName": "江田島市",
+      "kokumin": 673.45,
+      "rikken": 1315.549
+    },
+    {
+      "cityName": "府中町",
+      "kokumin": 2873.583,
+      "rikken": 4092.416
+    },
+    {
+      "cityName": "海田町",
+      "kokumin": 1517.96,
+      "rikken": 2142.039
+    },
+    {
+      "cityName": "熊野町",
+      "kokumin": 858.178,
+      "rikken": 1521.821
+    },
+    {
+      "cityName": "坂町",
+      "kokumin": 677.563,
+      "rikken": 1012.436
+    },
+    {
+      "cityName": "安芸太田町",
+      "kokumin": 146.171,
+      "rikken": 515.828
+    },
+    {
+      "cityName": "北広島町",
+      "kokumin": 545.392,
+      "rikken": 1671.607
+    },
+    {
+      "cityName": "大崎上島町",
+      "kokumin": 252.917,
+      "rikken": 449.082
+    },
+    {
+      "cityName": "世羅町",
+      "kokumin": 548.888,
+      "rikken": 1531.111
+    },
+    {
+      "cityName": "神石高原町",
+      "kokumin": 235.102,
+      "rikken": 1001.897
+    }
   ]
 }
