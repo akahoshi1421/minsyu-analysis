@@ -30,4 +30,4 @@
 兵庫県: https://web.pref.hyogo.lg.jp/si01/senkyo/2024senkyo/documents/tk-hirei08_2.pdf
 岡山県: https://www.pref.okayama.jp/uploaded/attachment/378446.xls
 広島県: https://www.pref.hiroshima.lg.jp/uploaded/attachment/597501.pdf
-鳥取県: https://www.pref.tottori.lg.jp/secure/1368989/0146htoku.kakutei.htm
+鳥取県: https://www.pref.tottori.lg.jp/secure/1368989/0146htoku.kakutei.htm (https://www.pref.tottori.lg.jp/secure/1371011/tokuhyosu-teisei.pdf)
