@@ -7132,5 +7132,107 @@
       "kokumin": 648.261,
       "rikken": 948.738
     }
+  ],
+  "愛媛県": [
+    {
+      "cityName": "松山市",
+      "kokumin": 33172.624,
+      "rikken": 36644.375
+    },
+    {
+      "cityName": "今治市",
+      "kokumin": 6237.843,
+      "rikken": 13298.156
+    },
+    {
+      "cityName": "宇和島市",
+      "kokumin": 2708.445,
+      "rikken": 5969.554
+    },
+    {
+      "cityName": "八幡浜市",
+      "kokumin": 1556.827,
+      "rikken": 3015.172
+    },
+    {
+      "cityName": "新居浜市",
+      "kokumin": 5695.526,
+      "rikken": 12241.473
+    },
+    {
+      "cityName": "西条市",
+      "kokumin": 5122.497,
+      "rikken": 12569.502
+    },
+    {
+      "cityName": "大洲市",
+      "kokumin": 1690.092,
+      "rikken": 3389.907
+    },
+    {
+      "cityName": "伊予市",
+      "kokumin": 1705.384,
+      "rikken": 3633.615
+    },
+    {
+      "cityName": "四国中央市",
+      "kokumin": 4325.23,
+      "rikken": 8636.769
+    },
+    {
+      "cityName": "西予市",
+      "kokumin": 1542.975,
+      "rikken": 3473.024
+    },
+    {
+      "cityName": "東温市",
+      "kokumin": 2023.549,
+      "rikken": 3485.45
+    },
+    {
+      "cityName": "上島町",
+      "kokumin": 259.913,
+      "rikken": 588.086
+    },
+    {
+      "cityName": "久万高原町",
+      "kokumin": 243.323,
+      "rikken": 701.676
+    },
+    {
+      "cityName": "松前町",
+      "kokumin": 1583.829,
+      "rikken": 2846.17
+    },
+    {
+      "cityName": "砥部町",
+      "kokumin": 1053.982,
+      "rikken": 1943.017
+    },
+    {
+      "cityName": "内子町",
+      "kokumin": 632.108,
+      "rikken": 1413.891
+    },
+    {
+      "cityName": "伊方町",
+      "kokumin": 325.728,
+      "rikken": 805.272
+    },
+    {
+      "cityName": "松野町",
+      "kokumin": 138.75,
+      "rikken": 416.25
+    },
+    {
+      "cityName": "鬼北町",
+      "kokumin": 395.72,
+      "rikken": 1108.279
+    },
+    {
+      "cityName": "愛南町",
+      "kokumin": 925.801,
+      "rikken": 2073.198
+    }
   ]
 }
