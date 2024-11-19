@@ -6378,5 +6378,142 @@
       "kokumin": 266.06,
       "rikken": 1112.939
     }
+  ],
+  "岡山県": [
+    {
+      "cityName": "岡山市",
+      "kokumin": 32786.405,
+      "rikken": 60701.591
+    },
+    {
+      "cityName": "倉敷市",
+      "kokumin": 19203.316,
+      "rikken": 37935.683
+    },
+    {
+      "cityName": "津山市",
+      "kokumin": 3180.721,
+      "rikken": 7729.278
+    },
+    {
+      "cityName": "玉野市",
+      "kokumin": 2171.754,
+      "rikken": 5975.245
+    },
+    {
+      "cityName": "笠岡市",
+      "kokumin": 1728.653,
+      "rikken": 3783.346
+    },
+    {
+      "cityName": "井原市",
+      "kokumin": 1222.706,
+      "rikken": 2771.293
+    },
+    {
+      "cityName": "総社市",
+      "kokumin": 2898.697,
+      "rikken": 5680.302
+    },
+    {
+      "cityName": "高梁市",
+      "kokumin": 801.832,
+      "rikken": 2120.167
+    },
+    {
+      "cityName": "新見市",
+      "kokumin": 863.996,
+      "rikken": 2483.003
+    },
+    {
+      "cityName": "備前市",
+      "kokumin": 1308.743,
+      "rikken": 2435.256
+    },
+    {
+      "cityName": "瀬戸内市",
+      "kokumin": 1396.435,
+      "rikken": 3947.564
+    },
+    {
+      "cityName": "赤磐市",
+      "kokumin": 2460.304,
+      "rikken": 3526.695
+    },
+    {
+      "cityName": "真庭市",
+      "kokumin": 1135.483,
+      "rikken": 3727.516
+    },
+    {
+      "cityName": "美作市",
+      "kokumin": 751.647,
+      "rikken": 2024.352
+    },
+    {
+      "cityName": "浅口市",
+      "kokumin": 1380.512,
+      "rikken": 3205.487
+    },
+    {
+      "cityName": "和気町",
+      "kokumin": 556.513,
+      "rikken": 1193.486
+    },
+    {
+      "cityName": "早島町",
+      "kokumin": 571.418,
+      "rikken": 1199.581
+    },
+    {
+      "cityName": "里庄町",
+      "kokumin": 461.799,
+      "rikken": 1001.2
+    },
+    {
+      "cityName": "矢掛町",
+      "kokumin": 455.863,
+      "rikken": 1002.136
+    },
+    {
+      "cityName": "新庄村",
+      "kokumin": 23.346,
+      "rikken": 79.653
+    },
+    {
+      "cityName": "鏡野町",
+      "kokumin": 410.326,
+      "rikken": 1099.673
+    },
+    {
+      "cityName": "勝央町",
+      "kokumin": 360.071,
+      "rikken": 876.928
+    },
+    {
+      "cityName": "奈義町",
+      "kokumin": 177.308,
+      "rikken": 380.691
+    },
+    {
+      "cityName": "西粟倉村",
+      "kokumin": 48.88,
+      "rikken": 139.12
+    },
+    {
+      "cityName": "久米南町",
+      "kokumin": 145.884,
+      "rikken": 418.115
+    },
+    {
+      "cityName": "美咲町",
+      "kokumin": 364.962,
+      "rikken": 1082.037
+    },
+    {
+      "cityName": "吉備中央町",
+      "kokumin": 336.907,
+      "rikken": 942.092
+    }
   ]
 }
