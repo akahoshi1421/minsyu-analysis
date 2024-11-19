@@ -34,3 +34,4 @@
 島根県: https://www1.pref.shimane.lg.jp/contents/shichoson/50sousenkyo/50sokuhou/kakutei/hirei_kakutei_kenkei.html
 山口県: https://www.pref.yamaguchi.lg.jp/uploaded/attachment/194498.xls
 香川県: https://www.pref.kagawa.lg.jp/documents/50773/052_h_kaikaku.pdf
+徳島県: https://www.pref.tokushima.lg.jp/file/attachment/947644.xlsx

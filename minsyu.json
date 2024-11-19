@@ -7010,5 +7010,127 @@
       "kokumin": 1377.069,
       "rikken": 1092.93
     }
+  ],
+  "徳島県": [
+    {
+      "cityName": "徳島市",
+      "kokumin": 11705.686,
+      "rikken": 18770.313
+    },
+    {
+      "cityName": "鳴門市",
+      "kokumin": 2698.86,
+      "rikken": 3272.139
+    },
+    {
+      "cityName": "小松島市",
+      "kokumin": 1416.578,
+      "rikken": 2788.421
+    },
+    {
+      "cityName": "阿南市",
+      "kokumin": 2939.489,
+      "rikken": 5428.51
+    },
+    {
+      "cityName": "吉野川市",
+      "kokumin": 1836.906,
+      "rikken": 2724.093
+    },
+    {
+      "cityName": "阿波市",
+      "kokumin": 1535.033,
+      "rikken": 2267.966
+    },
+    {
+      "cityName": "美馬市",
+      "kokumin": 1268.638,
+      "rikken": 1718.361
+    },
+    {
+      "cityName": "三好市",
+      "kokumin": 1026.023,
+      "rikken": 1540.976
+    },
+    {
+      "cityName": "勝浦町",
+      "kokumin": 157.582,
+      "rikken": 465.417
+    },
+    {
+      "cityName": "上勝町",
+      "kokumin": 37.636,
+      "rikken": 169.363
+    },
+    {
+      "cityName": "佐那河内村",
+      "kokumin": 75.223,
+      "rikken": 260.776
+    },
+    {
+      "cityName": "石井町",
+      "kokumin": 1078.07,
+      "rikken": 2064.929
+    },
+    {
+      "cityName": "神山町",
+      "kokumin": 163.047,
+      "rikken": 416.952
+    },
+    {
+      "cityName": "那賀町",
+      "kokumin": 219.838,
+      "rikken": 720.161
+    },
+    {
+      "cityName": "牟岐町",
+      "kokumin": 120.246,
+      "rikken": 341.753
+    },
+    {
+      "cityName": "美波町",
+      "kokumin": 188.581,
+      "rikken": 569.418
+    },
+    {
+      "cityName": "海陽町",
+      "kokumin": 247.059,
+      "rikken": 717.94
+    },
+    {
+      "cityName": "松茂町",
+      "kokumin": 790.804,
+      "rikken": 761.195
+    },
+    {
+      "cityName": "北島町",
+      "kokumin": 1319.84,
+      "rikken": 1494.159
+    },
+    {
+      "cityName": "藍住町",
+      "kokumin": 1681.307,
+      "rikken": 1896.692
+    },
+    {
+      "cityName": "板野町",
+      "kokumin": 560.083,
+      "rikken": 719.916
+    },
+    {
+      "cityName": "上板町",
+      "kokumin": 441.735,
+      "rikken": 666.264
+    },
+    {
+      "cityName": "つるぎ町",
+      "kokumin": 279.549,
+      "rikken": 476.45
+    },
+    {
+      "cityName": "東みよし町",
+      "kokumin": 648.261,
+      "rikken": 948.738
+    }
   ]
 }
