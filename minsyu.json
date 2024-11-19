@@ -6826,5 +6826,102 @@
       "kokumin": 289.733,
       "rikken": 1001.266
     }
+  ],
+  "山口県": [
+    {
+      "cityName": "下関市",
+      "kokumin": 8270.417,
+      "rikken": 14569.582
+    },
+    {
+      "cityName": "宇部市",
+      "kokumin": 8036.107,
+      "rikken": 10140.892
+    },
+    {
+      "cityName": "山口市",
+      "kokumin": 10917.813,
+      "rikken": 14254.186
+    },
+    {
+      "cityName": "萩市",
+      "kokumin": 1412.177,
+      "rikken": 2717.822
+    },
+    {
+      "cityName": "防府市",
+      "kokumin": 6088.291,
+      "rikken": 7019.708
+    },
+    {
+      "cityName": "下松市",
+      "kokumin": 3027.763,
+      "rikken": 4743.236
+    },
+    {
+      "cityName": "岩国市",
+      "kokumin": 5576.081,
+      "rikken": 12259.918
+    },
+    {
+      "cityName": "光市",
+      "kokumin": 2639.923,
+      "rikken": 5543.076
+    },
+    {
+      "cityName": "長門市",
+      "kokumin": 956.162,
+      "rikken": 1720.837
+    },
+    {
+      "cityName": "柳井市",
+      "kokumin": 1430.341,
+      "rikken": 3289.658
+    },
+    {
+      "cityName": "美祢市",
+      "kokumin": 773.929,
+      "rikken": 1544.07
+    },
+    {
+      "cityName": "周南市",
+      "kokumin": 7037.877,
+      "rikken": 11466.122
+    },
+    {
+      "cityName": "山陽小野田市",
+      "kokumin": 2345.46,
+      "rikken": 3529.539
+    },
+    {
+      "cityName": "周防大島町",
+      "kokumin": 522.741,
+      "rikken": 1643.258
+    },
+    {
+      "cityName": "和木町",
+      "kokumin": 297.368,
+      "rikken": 552.631
+    },
+    {
+      "cityName": "上関町",
+      "kokumin": 74.042,
+      "rikken": 215.957
+    },
+    {
+      "cityName": "田布施町",
+      "kokumin": 646.563,
+      "rikken": 1561.436
+    },
+    {
+      "cityName": "平生町",
+      "kokumin": 475.635,
+      "rikken": 1253.364
+    },
+    {
+      "cityName": "阿武町",
+      "kokumin": 92.268,
+      "rikken": 212.731
+    }
   ]
 }
