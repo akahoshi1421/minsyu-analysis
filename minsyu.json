@@ -6923,5 +6923,92 @@
       "kokumin": 92.268,
       "rikken": 212.731
     }
+  ],
+  "香川県": [
+    {
+      "cityName": "高松市",
+      "kokumin": 46425.251,
+      "rikken": 30830.747
+    },
+    {
+      "cityName": "丸亀市",
+      "kokumin": 11039.841,
+      "rikken": 6165.157
+    },
+    {
+      "cityName": "坂出市",
+      "kokumin": 7331.526,
+      "rikken": 1779.473
+    },
+    {
+      "cityName": "善通寺市",
+      "kokumin": 2190.525,
+      "rikken": 1984.474
+    },
+    {
+      "cityName": "観音寺市",
+      "kokumin": 3830.07,
+      "rikken": 3354.929
+    },
+    {
+      "cityName": "さぬき市",
+      "kokumin": 9253.109,
+      "rikken": 1432.89
+    },
+    {
+      "cityName": "東かがわ市",
+      "kokumin": 4991.673,
+      "rikken": 934.326
+    },
+    {
+      "cityName": "三豊市",
+      "kokumin": 4471.445,
+      "rikken": 3816.554
+    },
+    {
+      "cityName": "土庄町",
+      "kokumin": 620.981,
+      "rikken": 1616.018
+    },
+    {
+      "cityName": "小豆島町",
+      "kokumin": 662.75,
+      "rikken": 1506.25
+    },
+    {
+      "cityName": "三木町",
+      "kokumin": 4412.906,
+      "rikken": 1273.093
+    },
+    {
+      "cityName": "直島町",
+      "kokumin": 181.915,
+      "rikken": 396.084
+    },
+    {
+      "cityName": "宇多津町",
+      "kokumin": 2499.478,
+      "rikken": 685.521
+    },
+    {
+      "cityName": "綾川町",
+      "kokumin": 3774.323,
+      "rikken": 1077.676
+    },
+    {
+      "cityName": "琴平町",
+      "kokumin": 706.665,
+      "rikken": 584.334
+    },
+    {
+      "cityName": "多度津町",
+      "kokumin": 1748.938,
+      "rikken": 1551.061
+    },
+    {
+      "cityName": "まんのう町",
+      "kokumin": 1377.069,
+      "rikken": 1092.93
+    }
   ]
 }
