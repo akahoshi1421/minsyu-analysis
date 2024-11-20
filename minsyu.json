@@ -7406,5 +7406,307 @@
       "kokumin": 261.872,
       "rikken": 824.127
     }
+  ],
+  "福岡県": [
+    {
+      "cityName": "北九州市",
+      "kokumin": 37232.727,
+      "rikken": 74105.266
+    },
+    {
+      "cityName": "福岡市",
+      "kokumin": 87343.572,
+      "rikken": 135828.418
+    },
+    {
+      "cityName": "大牟田市",
+      "kokumin": 3200.734,
+      "rikken": 9877.265
+    },
+    {
+      "cityName": "久留米市",
+      "kokumin": 15779.936,
+      "rikken": 19880.063
+    },
+    {
+      "cityName": "直方市",
+      "kokumin": 1871.148,
+      "rikken": 3734.851
+    },
+    {
+      "cityName": "飯塚市",
+      "kokumin": 4259.953,
+      "rikken": 8293.046
+    },
+    {
+      "cityName": "田川市",
+      "kokumin": 1253.473,
+      "rikken": 2585.526
+    },
+    {
+      "cityName": "柳川市",
+      "kokumin": 1743.974,
+      "rikken": 5650.025
+    },
+    {
+      "cityName": "八女市",
+      "kokumin": 1706.874,
+      "rikken": 5575.125
+    },
+    {
+      "cityName": "筑後市",
+      "kokumin": 1782.286,
+      "rikken": 4621.713
+    },
+    {
+      "cityName": "大川市",
+      "kokumin": 1284.133,
+      "rikken": 2252.866
+    },
+    {
+      "cityName": "行橋市",
+      "kokumin": 2570.755,
+      "rikken": 5042.244
+    },
+    {
+      "cityName": "豊前市",
+      "kokumin": 744.494,
+      "rikken": 1722.505
+    },
+    {
+      "cityName": "中間市",
+      "kokumin": 1128.553,
+      "rikken": 2871.446
+    },
+    {
+      "cityName": "小郡市",
+      "kokumin": 3574.886,
+      "rikken": 5420.113
+    },
+    {
+      "cityName": "筑紫野市",
+      "kokumin": 5187.352,
+      "rikken": 11605.647
+    },
+    {
+      "cityName": "春日市",
+      "kokumin": 5915.625,
+      "rikken": 10073.374
+    },
+    {
+      "cityName": "大野城市",
+      "kokumin": 5512.275,
+      "rikken": 9925.724
+    },
+    {
+      "cityName": "宗像市",
+      "kokumin": 6377.286,
+      "rikken": 8551.713
+    },
+    {
+      "cityName": "太宰府市",
+      "kokumin": 3415.667,
+      "rikken": 7665.332
+    },
+    {
+      "cityName": "古賀市",
+      "kokumin": 3332.454,
+      "rikken": 4583.545
+    },
+    {
+      "cityName": "福津市",
+      "kokumin": 4164.241,
+      "rikken": 5441.758
+    },
+    {
+      "cityName": "うきは市",
+      "kokumin": 1237.209,
+      "rikken": 2107.79
+    },
+    {
+      "cityName": "宮若市",
+      "kokumin": 753.986,
+      "rikken": 1910.013
+    },
+    {
+      "cityName": "嘉麻市",
+      "kokumin": 810.055,
+      "rikken": 2438.944
+    },
+    {
+      "cityName": "朝倉市",
+      "kokumin": 1440.06,
+      "rikken": 4328.939
+    },
+    {
+      "cityName": "みやま市",
+      "kokumin": 1009.517,
+      "rikken": 3625.482
+    },
+    {
+      "cityName": "糸島市",
+      "kokumin": 4112.627,
+      "rikken": 9466.372
+    },
+    {
+      "cityName": "那珂川市",
+      "kokumin": 1998.554,
+      "rikken": 4081.445
+    },
+    {
+      "cityName": "宇美町",
+      "kokumin": 1596.121,
+      "rikken": 2333.878
+    },
+    {
+      "cityName": "篠栗町",
+      "kokumin": 1770.477,
+      "rikken": 2334.522
+    },
+    {
+      "cityName": "志免町",
+      "kokumin": 2428.187,
+      "rikken": 2839.812
+    },
+    {
+      "cityName": "須恵町",
+      "kokumin": 1234.793,
+      "rikken": 1687.206
+    },
+    {
+      "cityName": "新宮町",
+      "kokumin": 2222.217,
+      "rikken": 2485.782
+    },
+    {
+      "cityName": "久山町",
+      "kokumin": 453.211,
+      "rikken": 584.788
+    },
+    {
+      "cityName": "粕屋町",
+      "kokumin": 2819.593,
+      "rikken": 2716.406
+    },
+    {
+      "cityName": "芦屋町",
+      "kokumin": 414.197,
+      "rikken": 805.802
+    },
+    {
+      "cityName": "水巻町",
+      "kokumin": 875.012,
+      "rikken": 1853.987
+    },
+    {
+      "cityName": "岡垣町",
+      "kokumin": 1337.159,
+      "rikken": 2810.84
+    },
+    {
+      "cityName": "遠賀町",
+      "kokumin": 700.399,
+      "rikken": 1673.6
+    },
+    {
+      "cityName": "小竹町",
+      "kokumin": 244.231,
+      "rikken": 521.768
+    },
+    {
+      "cityName": "鞍手町",
+      "kokumin": 479.634,
+      "rikken": 1179.365
+    },
+    {
+      "cityName": "桂川町",
+      "kokumin": 362.435,
+      "rikken": 1069.564
+    },
+    {
+      "cityName": "筑前町",
+      "kokumin": 1087.733,
+      "rikken": 2738.266
+    },
+    {
+      "cityName": "東峰村",
+      "kokumin": 43.371,
+      "rikken": 186.628
+    },
+    {
+      "cityName": "大刀洗町",
+      "kokumin": 813.263,
+      "rikken": 1032.736
+    },
+    {
+      "cityName": "大木町",
+      "kokumin": 587.847,
+      "rikken": 1034.152
+    },
+    {
+      "cityName": "広川町",
+      "kokumin": 621.903,
+      "rikken": 1673.096
+    },
+    {
+      "cityName": "香春町",
+      "kokumin": 263.526,
+      "rikken": 619.473
+    },
+    {
+      "cityName": "添田町",
+      "kokumin": 189.351,
+      "rikken": 540.648
+    },
+    {
+      "cityName": "糸田町",
+      "kokumin": 151.863,
+      "rikken": 504.136
+    },
+    {
+      "cityName": "川崎町",
+      "kokumin": 269.189,
+      "rikken": 637.81
+    },
+    {
+      "cityName": "大任町",
+      "kokumin": 87.029,
+      "rikken": 232.97
+    },
+    {
+      "cityName": "赤村",
+      "kokumin": 65.277,
+      "rikken": 216.722
+    },
+    {
+      "cityName": "福智町",
+      "kokumin": 465.096,
+      "rikken": 1119.903
+    },
+    {
+      "cityName": "苅田町",
+      "kokumin": 1477.824,
+      "rikken": 2259.175
+    },
+    {
+      "cityName": "みやこ町",
+      "kokumin": 494.557,
+      "rikken": 1428.442
+    },
+    {
+      "cityName": "吉富町",
+      "kokumin": 169.001,
+      "rikken": 469.998
+    },
+    {
+      "cityName": "上毛町",
+      "kokumin": 227.184,
+      "rikken": 645.815
+    },
+    {
+      "cityName": "築上町",
+      "kokumin": 473.345,
+      "rikken": 1100.654
+    }
   ]
 }
