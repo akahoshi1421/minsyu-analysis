@@ -7708,5 +7708,107 @@
       "kokumin": 473.345,
       "rikken": 1100.654
     }
+  ],
+  "佐賀県": [
+    {
+      "cityName": "佐賀市",
+      "kokumin": 11597.95,
+      "rikken": 25854.05
+    },
+    {
+      "cityName": "唐津市",
+      "kokumin": 4280.4,
+      "rikken": 11046.6
+    },
+    {
+      "cityName": "鳥栖市",
+      "kokumin": 4346.99,
+      "rikken": 7564.01
+    },
+    {
+      "cityName": "多久市",
+      "kokumin": 619.534,
+      "rikken": 2584.47
+    },
+    {
+      "cityName": "伊万里市",
+      "kokumin": 2109.5,
+      "rikken": 6249.5
+    },
+    {
+      "cityName": "武雄市",
+      "kokumin": 2035.14,
+      "rikken": 6091.86
+    },
+    {
+      "cityName": "鹿島市",
+      "kokumin": 920.288,
+      "rikken": 4212.71
+    },
+    {
+      "cityName": "小城市",
+      "kokumin": 1812.16,
+      "rikken": 5883.84
+    },
+    {
+      "cityName": "嬉野市",
+      "kokumin": 938.694,
+      "rikken": 3365.31
+    },
+    {
+      "cityName": "神埼市",
+      "kokumin": 1417.47,
+      "rikken": 3405.53
+    },
+    {
+      "cityName": "吉野ヶ里町",
+      "kokumin": 751.048,
+      "rikken": 1520.95
+    },
+    {
+      "cityName": "基山町",
+      "kokumin": 960.501,
+      "rikken": 2200.5
+    },
+    {
+      "cityName": "上峰町",
+      "kokumin": 484.852,
+      "rikken": 985.147
+    },
+    {
+      "cityName": "みやき町",
+      "kokumin": 1128.03,
+      "rikken": 2779.97
+    },
+    {
+      "cityName": "玄海町",
+      "kokumin": 251.425,
+      "rikken": 427.574
+    },
+    {
+      "cityName": "有田町",
+      "kokumin": 852.183,
+      "rikken": 2475.82
+    },
+    {
+      "cityName": "大町町",
+      "kokumin": 239.96,
+      "rikken": 858.039
+    },
+    {
+      "cityName": "江北町",
+      "kokumin": 453.589,
+      "rikken": 1460.41
+    },
+    {
+      "cityName": "白石町",
+      "kokumin": 813.606,
+      "rikken": 3733.39
+    },
+    {
+      "cityName": "太良町",
+      "kokumin": 247.386,
+      "rikken": 1120.61
+    }
   ]
 }
