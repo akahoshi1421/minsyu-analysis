@@ -8236,5 +8236,137 @@
       "kokumin": 123.236,
       "rikken": 683.763
     }
+  ],
+  "宮崎県": [
+    {
+      "cityName": "宮崎市",
+      "kokumin": 15360.207,
+      "rikken": 39513.792
+    },
+    {
+      "cityName": "都城市",
+      "kokumin": 4228.625,
+      "rikken": 10206.374
+    },
+    {
+      "cityName": "延岡市",
+      "kokumin": 9531.296,
+      "rikken": 8073.703
+    },
+    {
+      "cityName": "日南市",
+      "kokumin": 1013.965,
+      "rikken": 3235.034
+    },
+    {
+      "cityName": "小林市",
+      "kokumin": 876.16,
+      "rikken": 2675.84
+    },
+    {
+      "cityName": "日向市",
+      "kokumin": 4005.615,
+      "rikken": 4147.384
+    },
+    {
+      "cityName": "串間市",
+      "kokumin": 293.805,
+      "rikken": 997.194
+    },
+    {
+      "cityName": "西都市",
+      "kokumin": 1446.543,
+      "rikken": 2035.456
+    },
+    {
+      "cityName": "えびの市",
+      "kokumin": 385.79,
+      "rikken": 1339.209
+    },
+    {
+      "cityName": "三股町",
+      "kokumin": 670.49,
+      "rikken": 1630.509
+    },
+    {
+      "cityName": "高原町",
+      "kokumin": 199.883,
+      "rikken": 639.116
+    },
+    {
+      "cityName": "国富町",
+      "kokumin": 433.952,
+      "rikken": 1820.047
+    },
+    {
+      "cityName": "綾町",
+      "kokumin": 189.936,
+      "rikken": 673.063
+    },
+    {
+      "cityName": "高鍋町",
+      "kokumin": 1092.574,
+      "rikken": 1584.425
+    },
+    {
+      "cityName": "新富町",
+      "kokumin": 894.9,
+      "rikken": 1146.1
+    },
+    {
+      "cityName": "西米良村",
+      "kokumin": 70.0,
+      "rikken": 52.0
+    },
+    {
+      "cityName": "木城町",
+      "kokumin": 251.082,
+      "rikken": 377.917
+    },
+    {
+      "cityName": "川南町",
+      "kokumin": 967.575,
+      "rikken": 937.424
+    },
+    {
+      "cityName": "都農町",
+      "kokumin": 752.372,
+      "rikken": 723.627
+    },
+    {
+      "cityName": "門川町",
+      "kokumin": 1097.124,
+      "rikken": 1082.875
+    },
+    {
+      "cityName": "諸塚村",
+      "kokumin": 100.402,
+      "rikken": 86.597
+    },
+    {
+      "cityName": "椎葉村",
+      "kokumin": 155.888,
+      "rikken": 166.111
+    },
+    {
+      "cityName": "美郷町",
+      "kokumin": 348.688,
+      "rikken": 360.311
+    },
+    {
+      "cityName": "高千穂町",
+      "kokumin": 660.574,
+      "rikken": 857.425
+    },
+    {
+      "cityName": "日之影町",
+      "kokumin": 252.606,
+      "rikken": 341.393
+    },
+    {
+      "cityName": "五ヶ瀬町",
+      "kokumin": 227.294,
+      "rikken": 255.705
+    }
   ]
 }
