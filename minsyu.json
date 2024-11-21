@@ -7712,63 +7712,63 @@
   "佐賀県": [
     {
       "cityName": "佐賀市",
-      "kokumin": 11597.95,
-      "rikken": 25854.05
+      "kokumin": 11597.945,
+      "rikken": 25854.054
     },
     {
       "cityName": "唐津市",
-      "kokumin": 4280.4,
-      "rikken": 11046.6
+      "kokumin": 4280.395,
+      "rikken": 11046.604
     },
     {
       "cityName": "鳥栖市",
-      "kokumin": 4346.99,
-      "rikken": 7564.01
+      "kokumin": 4346.993,
+      "rikken": 7564.006
     },
     {
       "cityName": "多久市",
       "kokumin": 619.534,
-      "rikken": 2584.47
+      "rikken": 2584.465
     },
     {
       "cityName": "伊万里市",
-      "kokumin": 2109.5,
-      "rikken": 6249.5
+      "kokumin": 2109.503,
+      "rikken": 6249.496
     },
     {
       "cityName": "武雄市",
-      "kokumin": 2035.14,
-      "rikken": 6091.86
+      "kokumin": 2035.141,
+      "rikken": 6091.858
     },
     {
       "cityName": "鹿島市",
       "kokumin": 920.288,
-      "rikken": 4212.71
+      "rikken": 4212.711
     },
     {
       "cityName": "小城市",
-      "kokumin": 1812.16,
-      "rikken": 5883.84
+      "kokumin": 1812.157,
+      "rikken": 5883.842
     },
     {
       "cityName": "嬉野市",
       "kokumin": 938.694,
-      "rikken": 3365.31
+      "rikken": 3365.305
     },
     {
       "cityName": "神埼市",
-      "kokumin": 1417.47,
+      "kokumin": 1417.469,
       "rikken": 3405.53
     },
     {
       "cityName": "吉野ヶ里町",
       "kokumin": 751.048,
-      "rikken": 1520.95
+      "rikken": 1520.951
     },
     {
       "cityName": "基山町",
       "kokumin": 960.501,
-      "rikken": 2200.5
+      "rikken": 2200.498
     },
     {
       "cityName": "上峰町",
@@ -7777,8 +7777,8 @@
     },
     {
       "cityName": "みやき町",
-      "kokumin": 1128.03,
-      "rikken": 2779.97
+      "kokumin": 1128.033,
+      "rikken": 2779.966
     },
     {
       "cityName": "玄海町",
@@ -7788,7 +7788,7 @@
     {
       "cityName": "有田町",
       "kokumin": 852.183,
-      "rikken": 2475.82
+      "rikken": 2475.816
     },
     {
       "cityName": "大町町",
@@ -7803,12 +7803,12 @@
     {
       "cityName": "白石町",
       "kokumin": 813.606,
-      "rikken": 3733.39
+      "rikken": 3733.393
     },
     {
       "cityName": "太良町",
       "kokumin": 247.386,
-      "rikken": 1120.61
+      "rikken": 1120.613
     }
   ],
   "長崎県": [
