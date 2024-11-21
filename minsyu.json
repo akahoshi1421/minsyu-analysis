@@ -7917,5 +7917,97 @@
       "kokumin": 483.68,
       "rikken": 1808.319
     }
+  ],
+  "大分県": [
+    {
+      "cityName": "大分市",
+      "kokumin": 20573.908,
+      "rikken": 43143.09
+    },
+    {
+      "cityName": "別府市",
+      "kokumin": 3852.834,
+      "rikken": 10824.165
+    },
+    {
+      "cityName": "中津市",
+      "kokumin": 2661.399,
+      "rikken": 7703.6
+    },
+    {
+      "cityName": "日田市",
+      "kokumin": 2205.757,
+      "rikken": 7741.242
+    },
+    {
+      "cityName": "佐伯市",
+      "kokumin": 1776.748,
+      "rikken": 7336.251
+    },
+    {
+      "cityName": "臼杵市",
+      "kokumin": 1079.869,
+      "rikken": 4787.13
+    },
+    {
+      "cityName": "津 久 見市",
+      "kokumin": 390.155,
+      "rikken": 2151.844
+    },
+    {
+      "cityName": "竹田市",
+      "kokumin": 495.739,
+      "rikken": 2697.26
+    },
+    {
+      "cityName": "豊後高田市",
+      "kokumin": 578.091,
+      "rikken": 2319.908
+    },
+    {
+      "cityName": "杵築市",
+      "kokumin": 827.09,
+      "rikken": 3081.909
+    },
+    {
+      "cityName": "宇佐市",
+      "kokumin": 1720.221,
+      "rikken": 5858.778
+    },
+    {
+      "cityName": "豊後大野市",
+      "kokumin": 892.704,
+      "rikken": 4652.295
+    },
+    {
+      "cityName": "由布市",
+      "kokumin": 1096.822,
+      "rikken": 4019.177
+    },
+    {
+      "cityName": "国東市",
+      "kokumin": 788.638,
+      "rikken": 3278.361
+    },
+    {
+      "cityName": "姫島村",
+      "kokumin": 38.366,
+      "rikken": 86.633
+    },
+    {
+      "cityName": "日出町",
+      "kokumin": 1111.912,
+      "rikken": 3267.087
+    },
+    {
+      "cityName": "九重町",
+      "kokumin": 255.231,
+      "rikken": 1143.768
+    },
+    {
+      "cityName": "玖珠町",
+      "kokumin": 343.172,
+      "rikken": 2057.827
+    }
   ]
 }
