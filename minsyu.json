@@ -8368,5 +8368,222 @@
       "kokumin": 227.294,
       "rikken": 255.705
     }
+  ],
+  "鹿児島県": [
+    {
+      "cityName": "鹿児島市",
+      "kokumin": 21328.202,
+      "rikken": 59513.796
+    },
+    {
+      "cityName": "鹿屋市",
+      "kokumin": 2347.763,
+      "rikken": 5490.236
+    },
+    {
+      "cityName": "枕崎市",
+      "kokumin": 371.021,
+      "rikken": 1439.978
+    },
+    {
+      "cityName": "阿久根市",
+      "kokumin": 416.102,
+      "rikken": 2131.897
+    },
+    {
+      "cityName": "出水市",
+      "kokumin": 1517.259,
+      "rikken": 5530.74
+    },
+    {
+      "cityName": "指宿市",
+      "kokumin": 956.944,
+      "rikken": 3132.055
+    },
+    {
+      "cityName": "西之表市",
+      "kokumin": 390.546,
+      "rikken": 835.453
+    },
+    {
+      "cityName": "垂水市",
+      "kokumin": 278.2,
+      "rikken": 839.8
+    },
+    {
+      "cityName": "薩摩川内市",
+      "kokumin": 3357.618,
+      "rikken": 12402.38
+    },
+    {
+      "cityName": "日置市",
+      "kokumin": 1282.215,
+      "rikken": 5840.784
+    },
+    {
+      "cityName": "曽於市",
+      "kokumin": 719.155,
+      "rikken": 1955.844
+    },
+    {
+      "cityName": "霧島市",
+      "kokumin": 4271.102,
+      "rikken": 8606.897
+    },
+    {
+      "cityName": "いちき串木野市",
+      "kokumin": 727.86,
+      "rikken": 3203.139
+    },
+    {
+      "cityName": "南さつま市",
+      "kokumin": 856.204,
+      "rikken": 2795.795
+    },
+    {
+      "cityName": "志布志市",
+      "kokumin": 649.865,
+      "rikken": 1715.134
+    },
+    {
+      "cityName": "奄美市",
+      "kokumin": 1036.197,
+      "rikken": 2611.802
+    },
+    {
+      "cityName": "南九州市",
+      "kokumin": 727.011,
+      "rikken": 2463.988
+    },
+    {
+      "cityName": "伊佐市",
+      "kokumin": 550.438,
+      "rikken": 2883.561
+    },
+    {
+      "cityName": "姶良市",
+      "kokumin": 2823.159,
+      "rikken": 9668.84
+    },
+    {
+      "cityName": "三島村",
+      "kokumin": NaN,
+      "rikken": NaN
+    },
+    {
+      "cityName": "十島村",
+      "kokumin": 13.588,
+      "rikken": 70.411
+    },
+    {
+      "cityName": "さつま町",
+      "kokumin": 566.937,
+      "rikken": 2530.062
+    },
+    {
+      "cityName": "長島町",
+      "kokumin": 253.107,
+      "rikken": 869.892
+    },
+    {
+      "cityName": "湧水町",
+      "kokumin": 181.594,
+      "rikken": 1079.405
+    },
+    {
+      "cityName": "大崎町",
+      "kokumin": 242.511,
+      "rikken": 613.488
+    },
+    {
+      "cityName": "東串良町",
+      "kokumin": 117.097,
+      "rikken": 318.902
+    },
+    {
+      "cityName": "錦江町",
+      "kokumin": 123.801,
+      "rikken": 397.198
+    },
+    {
+      "cityName": "南大隅町",
+      "kokumin": 106.942,
+      "rikken": 414.057
+    },
+    {
+      "cityName": "肝付町",
+      "kokumin": 310.457,
+      "rikken": 948.542
+    },
+    {
+      "cityName": "中種子町",
+      "kokumin": 181.596,
+      "rikken": 507.403
+    },
+    {
+      "cityName": "南種子町",
+      "kokumin": 163.158,
+      "rikken": 432.841
+    },
+    {
+      "cityName": "屋久島町",
+      "kokumin": 314.462,
+      "rikken": 769.537
+    },
+    {
+      "cityName": "大和村",
+      "kokumin": 44.765,
+      "rikken": 98.234
+    },
+    {
+      "cityName": "宇検村",
+      "kokumin": 33.018,
+      "rikken": 91.981
+    },
+    {
+      "cityName": "瀬戸内町",
+      "kokumin": 174.525,
+      "rikken": 444.474
+    },
+    {
+      "cityName": "龍郷町",
+      "kokumin": 155.916,
+      "rikken": 426.083
+    },
+    {
+      "cityName": "喜界町",
+      "kokumin": 159.166,
+      "rikken": 413.833
+    },
+    {
+      "cityName": "徳之島町",
+      "kokumin": 246.729,
+      "rikken": 575.27
+    },
+    {
+      "cityName": "天城町",
+      "kokumin": 121.572,
+      "rikken": 259.427
+    },
+    {
+      "cityName": "伊仙町",
+      "kokumin": 83.312,
+      "rikken": 330.687
+    },
+    {
+      "cityName": "和泊町",
+      "kokumin": 145.068,
+      "rikken": 404.931
+    },
+    {
+      "cityName": "知名町",
+      "kokumin": 142.219,
+      "rikken": 422.78
+    },
+    {
+      "cityName": "与論町",
+      "kokumin": 195.665,
+      "rikken": 283.334
+    }
   ]
 }
