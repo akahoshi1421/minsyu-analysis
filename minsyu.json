@@ -8585,5 +8585,212 @@
       "kokumin": 195.665,
       "rikken": 283.334
     }
+  ],
+  "沖縄県": [
+    {
+      "cityName": "那覇市",
+      "kokumin": 9414.573,
+      "rikken": 20586.426
+    },
+    {
+      "cityName": "宜野湾市",
+      "kokumin": 3024.744,
+      "rikken": 5228.255
+    },
+    {
+      "cityName": "石垣市",
+      "kokumin": 1104.212,
+      "rikken": 3078.787
+    },
+    {
+      "cityName": "浦添市",
+      "kokumin": 3530.012,
+      "rikken": 6134.987
+    },
+    {
+      "cityName": "名護市",
+      "kokumin": 1412.122,
+      "rikken": 4997.877
+    },
+    {
+      "cityName": "糸満市",
+      "kokumin": 1472.724,
+      "rikken": 3948.275
+    },
+    {
+      "cityName": "沖縄市",
+      "kokumin": 3628.925,
+      "rikken": 11100.074
+    },
+    {
+      "cityName": "豊見城市",
+      "kokumin": 1926.757,
+      "rikken": 4361.242
+    },
+    {
+      "cityName": "うるま市",
+      "kokumin": 3064.684,
+      "rikken": 8882.315
+    },
+    {
+      "cityName": "宮古島市",
+      "kokumin": 959.562,
+      "rikken": 3032.437
+    },
+    {
+      "cityName": "南城市",
+      "kokumin": 1043.982,
+      "rikken": 3776.017
+    },
+    {
+      "cityName": "国頭村",
+      "kokumin": 74.464,
+      "rikken": 342.535
+    },
+    {
+      "cityName": "大宜味村",
+      "kokumin": 33.31,
+      "rikken": 302.689
+    },
+    {
+      "cityName": "東村",
+      "kokumin": 40.164,
+      "rikken": 166.835
+    },
+    {
+      "cityName": "今帰仁村",
+      "kokumin": 152.753,
+      "rikken": 902.246
+    },
+    {
+      "cityName": "本部町",
+      "kokumin": 220.873,
+      "rikken": 1055.126
+    },
+    {
+      "cityName": "恩納村",
+      "kokumin": 244.182,
+      "rikken": 844.817
+    },
+    {
+      "cityName": "宜野座村",
+      "kokumin": 133.35,
+      "rikken": 557.649
+    },
+    {
+      "cityName": "金武町",
+      "kokumin": 235.109,
+      "rikken": 865.89
+    },
+    {
+      "cityName": "伊江村",
+      "kokumin": 56.685,
+      "rikken": 329.314
+    },
+    {
+      "cityName": "読谷村",
+      "kokumin": 951.2,
+      "rikken": 2248.799
+    },
+    {
+      "cityName": "嘉手納町",
+      "kokumin": 360.519,
+      "rikken": 625.48
+    },
+    {
+      "cityName": "北谷町",
+      "kokumin": 774.316,
+      "rikken": 1651.683
+    },
+    {
+      "cityName": "北中城村",
+      "kokumin": 475.12,
+      "rikken": 1075.879
+    },
+    {
+      "cityName": "中城村",
+      "kokumin": 866.521,
+      "rikken": 1300.478
+    },
+    {
+      "cityName": "西原町",
+      "kokumin": 1057.511,
+      "rikken": 2249.488
+    },
+    {
+      "cityName": "与那原町",
+      "kokumin": 546.012,
+      "rikken": 1493.987
+    },
+    {
+      "cityName": "南風原町",
+      "kokumin": 1105.611,
+      "rikken": 3315.388
+    },
+    {
+      "cityName": "渡嘉敷村",
+      "kokumin": 19.428,
+      "rikken": 48.571
+    },
+    {
+      "cityName": "座間味村",
+      "kokumin": 30.119,
+      "rikken": 84.88
+    },
+    {
+      "cityName": "栗国村",
+      "kokumin": 24.528,
+      "rikken": 40.471
+    },
+    {
+      "cityName": "渡名喜村",
+      "kokumin": 6.666,
+      "rikken": 9.333
+    },
+    {
+      "cityName": "南大東村",
+      "kokumin": 39.342,
+      "rikken": 62.657
+    },
+    {
+      "cityName": "北大東村",
+      "kokumin": 13.818,
+      "rikken": 24.181
+    },
+    {
+      "cityName": "伊平屋村",
+      "kokumin": 18.608,
+      "rikken": 88.391
+    },
+    {
+      "cityName": "伊是名村",
+      "kokumin": 30.133,
+      "rikken": 82.866
+    },
+    {
+      "cityName": "久米島町",
+      "kokumin": 140.222,
+      "rikken": 490.777
+    },
+    {
+      "cityName": "八重瀬町",
+      "kokumin": 773.651,
+      "rikken": 2612.348
+    },
+    {
+      "cityName": "多良間村",
+      "kokumin": 5.523,
+      "rikken": 52.476
+    },
+    {
+      "cityName": "竹富町",
+      "kokumin": 116.685,
+      "rikken": 301.314
+    },
+    {
+      "cityName": "与那国町",
+      "kokumin": 45.454,
+      "rikken": 79.545
+    }
   ]
 }
