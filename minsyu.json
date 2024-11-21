@@ -7810,5 +7810,112 @@
       "kokumin": 247.386,
       "rikken": 1120.61
     }
+  ],
+  "長崎県": [
+    {
+      "cityName": "長崎市",
+      "kokumin": 34181.793,
+      "rikken": 26929.206
+    },
+    {
+      "cityName": "佐世保市",
+      "kokumin": 8095.164,
+      "rikken": 20393.835
+    },
+    {
+      "cityName": "島原市",
+      "kokumin": 1147.84,
+      "rikken": 3519.159
+    },
+    {
+      "cityName": "諫早市",
+      "kokumin": 5590.556,
+      "rikken": 12102.443
+    },
+    {
+      "cityName": "大村市",
+      "kokumin": 3610.958,
+      "rikken": 8272.041
+    },
+    {
+      "cityName": "平戸市",
+      "kokumin": 737.171,
+      "rikken": 2550.828
+    },
+    {
+      "cityName": "松浦市",
+      "kokumin": 700.855,
+      "rikken": 1772.144
+    },
+    {
+      "cityName": "対馬市",
+      "kokumin": 690.396,
+      "rikken": 3011.603
+    },
+    {
+      "cityName": "壱岐市",
+      "kokumin": 600.372,
+      "rikken": 2562.627
+    },
+    {
+      "cityName": "五島市",
+      "kokumin": 897.428,
+      "rikken": 3026.571
+    },
+    {
+      "cityName": "西海市",
+      "kokumin": 926.731,
+      "rikken": 2330.268
+    },
+    {
+      "cityName": "雲仙市",
+      "kokumin": 1245.207,
+      "rikken": 3207.792
+    },
+    {
+      "cityName": "南島原市",
+      "kokumin": 1099.892,
+      "rikken": 3472.107
+    },
+    {
+      "cityName": "長与町",
+      "kokumin": 2410.633,
+      "rikken": 4541.366
+    },
+    {
+      "cityName": "時津町",
+      "kokumin": 1428.76,
+      "rikken": 2773.239
+    },
+    {
+      "cityName": "東彼杵町",
+      "kokumin": 195.937,
+      "rikken": 849.062
+    },
+    {
+      "cityName": "川棚町",
+      "kokumin": 353.13,
+      "rikken": 1298.869
+    },
+    {
+      "cityName": "波佐見町",
+      "kokumin": 456.325,
+      "rikken": 1218.674
+    },
+    {
+      "cityName": "小値賀町",
+      "kokumin": 58.164,
+      "rikken": 250.835
+    },
+    {
+      "cityName": "佐々町",
+      "kokumin": 446.038,
+      "rikken": 1123.961
+    },
+    {
+      "cityName": "新上五島町",
+      "kokumin": 483.68,
+      "rikken": 1808.319
+    }
   ]
 }
