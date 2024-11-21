@@ -2,11 +2,11 @@
 
 第 50 回衆議院選挙の比例代表選において、「立憲民主党」でも「国民民主党」でもなく「民主党」とだけ書かれた票の数を調べたものです。
 
-## ファイル位一覧
+## ファイル一覧
 
-- [minsyu.json](https://github.com/akahoshi1421/minsyu-analysis/blob/main/minsyu.json) 各自治体の名称と国民民主党および立憲民主党に投票した票数(按分込み)が入っています。
-- [source.txt](https://github.com/akahoshi1421/minsyu-analysis/blob/main/source.txt) minsyu.json を作成するにあたって利用したソース元があります。
-- [minsyu_analysis.ipynb](https://github.com/akahoshi1421/minsyu-analysis/blob/main/minsyu_analysis.ipynb) 分析結果のファイルです。
+- [minsyu.json](https://github.com/akahoshi1421/minsyu-analysis/blob/main/minsyu.json) 各自治体の名称と国民民主党および立憲民主党に投票した票数(按分込み)があるファイルです。
+- [source.txt](https://github.com/akahoshi1421/minsyu-analysis/blob/main/source.txt) minsyu.json を作成するにあたって利用したソース元の一覧が書かれているファイルです。
+- [minsyu_analysis.ipynb](https://github.com/akahoshi1421/minsyu-analysis/blob/main/minsyu_analysis.ipynb) 分析過程があるファイルです。
 
 ## 結果
 
