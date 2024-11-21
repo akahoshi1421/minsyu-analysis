@@ -8009,5 +8009,232 @@
       "kokumin": 343.172,
       "rikken": 2057.827
     }
+  ],
+  "熊本県": [
+    {
+      "cityName": "熊本市",
+      "kokumin": 27609.12,
+      "rikken": 60600.875
+    },
+    {
+      "cityName": "八代市",
+      "kokumin": 3129.479,
+      "rikken": 10040.52
+    },
+    {
+      "cityName": "人吉市",
+      "kokumin": 754.147,
+      "rikken": 3222.852
+    },
+    {
+      "cityName": "荒尾市",
+      "kokumin": 1290.548,
+      "rikken": 3730.451
+    },
+    {
+      "cityName": "水俣市",
+      "kokumin": 494.929,
+      "rikken": 2036.07
+    },
+    {
+      "cityName": "玉名市",
+      "kokumin": 1714.639,
+      "rikken": 4765.36
+    },
+    {
+      "cityName": "天草市",
+      "kokumin": 1474.933,
+      "rikken": 6188.066
+    },
+    {
+      "cityName": "山鹿市",
+      "kokumin": 1161.113,
+      "rikken": 3586.886
+    },
+    {
+      "cityName": "菊池市",
+      "kokumin": 1165.707,
+      "rikken": 3071.292
+    },
+    {
+      "cityName": "宇土市",
+      "kokumin": 1081.569,
+      "rikken": 3274.43
+    },
+    {
+      "cityName": "上天草市",
+      "kokumin": 397.481,
+      "rikken": 1753.518
+    },
+    {
+      "cityName": "宇城市",
+      "kokumin": 1308.873,
+      "rikken": 4958.126
+    },
+    {
+      "cityName": "阿蘇市",
+      "kokumin": 663.557,
+      "rikken": 2072.442
+    },
+    {
+      "cityName": "合志市",
+      "kokumin": 2491.102,
+      "rikken": 4710.897
+    },
+    {
+      "cityName": "美里町",
+      "kokumin": 166.408,
+      "rikken": 753.591
+    },
+    {
+      "cityName": "玉東町",
+      "kokumin": 139.225,
+      "rikken": 375.774
+    },
+    {
+      "cityName": "和水町",
+      "kokumin": 231.3,
+      "rikken": 720.699
+    },
+    {
+      "cityName": "南関町",
+      "kokumin": 212.492,
+      "rikken": 661.507
+    },
+    {
+      "cityName": "長洲町",
+      "kokumin": 388.4,
+      "rikken": 1211.599
+    },
+    {
+      "cityName": "大津町",
+      "kokumin": 1371.823,
+      "rikken": 2366.176
+    },
+    {
+      "cityName": "菊陽町",
+      "kokumin": 1845.236,
+      "rikken": 3105.763
+    },
+    {
+      "cityName": "南小国町",
+      "kokumin": 76.646,
+      "rikken": 353.353
+    },
+    {
+      "cityName": "小国町",
+      "kokumin": 132.222,
+      "rikken": 532.777
+    },
+    {
+      "cityName": "産山村",
+      "kokumin": 39.653,
+      "rikken": 94.346
+    },
+    {
+      "cityName": "高森町",
+      "kokumin": 164.012,
+      "rikken": 453.987
+    },
+    {
+      "cityName": "南阿蘇村",
+      "kokumin": 274.228,
+      "rikken": 870.771
+    },
+    {
+      "cityName": "西原村",
+      "kokumin": 180.675,
+      "rikken": 459.324
+    },
+    {
+      "cityName": "御船町",
+      "kokumin": 486.047,
+      "rikken": 1297.952
+    },
+    {
+      "cityName": "嘉島町",
+      "kokumin": 311.337,
+      "rikken": 640.662
+    },
+    {
+      "cityName": "益城町",
+      "kokumin": 1021.68,
+      "rikken": 2289.32
+    },
+    {
+      "cityName": "甲佐町",
+      "kokumin": 202.386,
+      "rikken": 618.613
+    },
+    {
+      "cityName": "山都町",
+      "kokumin": 218.107,
+      "rikken": 953.892
+    },
+    {
+      "cityName": "氷川町",
+      "kokumin": 239.854,
+      "rikken": 984.145
+    },
+    {
+      "cityName": "芦北町",
+      "kokumin": 289.569,
+      "rikken": 1490.43
+    },
+    {
+      "cityName": "津奈木町",
+      "kokumin": 81.375,
+      "rikken": 383.625
+    },
+    {
+      "cityName": "錦町",
+      "kokumin": 285.495,
+      "rikken": 1040.504
+    },
+    {
+      "cityName": "あさぎり町",
+      "kokumin": 333.447,
+      "rikken": 1398.552
+    },
+    {
+      "cityName": "多良木町",
+      "kokumin": 188.705,
+      "rikken": 792.294
+    },
+    {
+      "cityName": "湯前町",
+      "kokumin": 51.448,
+      "rikken": 312.551
+    },
+    {
+      "cityName": "水上村",
+      "kokumin": 59.136,
+      "rikken": 191.863
+    },
+    {
+      "cityName": "相良村",
+      "kokumin": 87.005,
+      "rikken": 411.994
+    },
+    {
+      "cityName": "五木村",
+      "kokumin": 15.866,
+      "rikken": 86.133
+    },
+    {
+      "cityName": "山江村",
+      "kokumin": 73.061,
+      "rikken": 299.938
+    },
+    {
+      "cityName": "球磨村",
+      "kokumin": 33.383,
+      "rikken": 285.616
+    },
+    {
+      "cityName": "苓北町",
+      "kokumin": 123.236,
+      "rikken": 683.763
+    }
   ]
 }
